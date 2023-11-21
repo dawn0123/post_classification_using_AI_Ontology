@@ -1,0 +1,2462 @@
+http://purl.bioontology.org/ontology/MEDDRA/10050464,morbid thoughts
+http://purl.bioontology.org/ontology/MESH/D000077253,online social networking
+http://purl.bioontology.org/ontology/MESH/D001009,castration anxiety
+http://purl.bioontology.org/ontology/MESH/D009633,nonverbal communication
+http://purl.bioontology.org/ontology/MESH/D013850,thinking
+http://purl.bioontology.org/ontology/MESH/D014705,verbal behavior
+http://purl.bioontology.org/ontology/MESH/D016911,koro
+http://purl.bioontology.org/ontology/MESH/D017699,pelvic pain
+http://purl.bioontology.org/ontology/MESH/D060756,social networking
+http://purl.bioontology.org/ontology/MESH/D060805,performance anxiety
+http://purl.bioontology.org/ontology/MESH/D061108,social media
+http://purl.bioontology.org/ontology/MESH/D065840,protective factor
+http://purl.bioontology.org/ontology/STY/T072,physical object
+http://purl.obolibrary.org/obo/BFO_0000001,entity
+http://purl.obolibrary.org/obo/BFO_0000002,continuant
+http://purl.obolibrary.org/obo/BFO_0000003,occurrent
+http://purl.obolibrary.org/obo/BFO_0000004,independent continuant
+http://purl.obolibrary.org/obo/BFO_0000006,spatial region
+http://purl.obolibrary.org/obo/BFO_0000008,temporal region
+http://purl.obolibrary.org/obo/BFO_0000009,two-dimensional spatial region
+http://purl.obolibrary.org/obo/BFO_0000011,spatiotemporal region
+http://purl.obolibrary.org/obo/BFO_0000015,process
+http://purl.obolibrary.org/obo/BFO_0000016,disposition
+http://purl.obolibrary.org/obo/BFO_0000017,realizable entity
+http://purl.obolibrary.org/obo/BFO_0000018,zero-dimensional spatial region
+http://purl.obolibrary.org/obo/BFO_0000019,quality
+http://purl.obolibrary.org/obo/BFO_0000020,specifically dependent continuant
+http://purl.obolibrary.org/obo/BFO_0000023,role
+http://purl.obolibrary.org/obo/BFO_0000024,fiat object part
+http://purl.obolibrary.org/obo/BFO_0000026,one-dimensional spatial region
+http://purl.obolibrary.org/obo/BFO_0000027,object aggregate
+http://purl.obolibrary.org/obo/BFO_0000028,three-dimensional spatial region
+http://purl.obolibrary.org/obo/BFO_0000029,site
+http://purl.obolibrary.org/obo/BFO_0000030,object
+http://purl.obolibrary.org/obo/BFO_0000031,generically dependent continuant
+http://purl.obolibrary.org/obo/BFO_0000034,function
+http://purl.obolibrary.org/obo/BFO_0000035,process boundary
+http://purl.obolibrary.org/obo/BFO_0000038,one-dimensional temporal region
+http://purl.obolibrary.org/obo/BFO_0000040,material entity
+http://purl.obolibrary.org/obo/BFO_0000140,continuant fiat boundary
+http://purl.obolibrary.org/obo/BFO_0000141,immaterial entity
+http://purl.obolibrary.org/obo/BFO_0000142,one-dimensional continuant fiat boundary
+http://purl.obolibrary.org/obo/BFO_0000145,relational quality
+http://purl.obolibrary.org/obo/BFO_0000146,two-dimensional continuant fiat boundary
+http://purl.obolibrary.org/obo/BFO_0000147,zero-dimensional continuant fiat boundary
+http://purl.obolibrary.org/obo/BFO_0000148,zero-dimensional temporal region
+http://purl.obolibrary.org/obo/BFO_0000182,history
+http://purl.obolibrary.org/obo/DOID_0050587,trichotillomania
+http://purl.obolibrary.org/obo/DOID_0050741,alcohol dependence
+http://purl.obolibrary.org/obo/DOID_0050742,nicotine dependence
+http://purl.obolibrary.org/obo/DOID_0060043,sexual disorder
+http://purl.obolibrary.org/obo/DOID_0060043,sexual health disorder
+http://purl.obolibrary.org/obo/DOID_0060044,paraphilia disorder
+http://purl.obolibrary.org/obo/DOID_0060048,nosophobia
+http://purl.obolibrary.org/obo/DOID_0060163,body dysmorphic disorder
+http://purl.obolibrary.org/obo/DOID_0060167,seasonal affective disorder
+http://purl.obolibrary.org/obo/DOID_0080831,subjective cognitive decline
+http://purl.obolibrary.org/obo/DOID_0080832,mild cognitive impairment
+http://purl.obolibrary.org/obo/DOID_10131,psychologic vaginismus
+http://purl.obolibrary.org/obo/DOID_10132,psychosexual disorder
+http://purl.obolibrary.org/obo/DOID_10236,exhibitionism
+http://purl.obolibrary.org/obo/DOID_10685,separation anxiety disorder
+http://purl.obolibrary.org/obo/DOID_10685,separation anxiety disorder
+http://purl.obolibrary.org/obo/DOID_10834,voyeurism
+http://purl.obolibrary.org/obo/DOID_10914,amnestic disorder
+http://purl.obolibrary.org/obo/DOID_10933,obsessive compulsive disorder
+http://purl.obolibrary.org/obo/DOID_10933,obsessive-compulsive disorder
+http://purl.obolibrary.org/obo/DOID_10933,obsessive-compulsive disorder
+http://purl.obolibrary.org/obo/DOID_10937,impulse control disorder
+http://purl.obolibrary.org/obo/DOID_11120,psychologic dyspareunia
+http://purl.obolibrary.org/obo/DOID_11206,opioid abuse
+http://purl.obolibrary.org/obo/DOID_11257,social phobia
+http://purl.obolibrary.org/obo/DOID_11257,social phobia
+http://purl.obolibrary.org/obo/DOID_11328,schizophreniform disorder
+http://purl.obolibrary.org/obo/DOID_11718,antidepressant type abuse
+http://purl.obolibrary.org/obo/DOID_1203,drug-induced mental disorder
+http://purl.obolibrary.org/obo/DOID_12139,dysthymic disorder
+http://purl.obolibrary.org/obo/DOID_12139,dysthymic disorder
+http://purl.obolibrary.org/obo/DOID_12217,Lewy body dementia
+http://purl.obolibrary.org/obo/DOID_1229,paranoid schizophrenia
+http://purl.obolibrary.org/obo/DOID_12294,atypical depressive disorder
+http://purl.obolibrary.org/obo/DOID_1233,transvestism
+http://purl.obolibrary.org/obo/DOID_1234,gender identity disorder
+http://purl.obolibrary.org/obo/DOID_1234,gender incongruence
+http://purl.obolibrary.org/obo/DOID_1235,fetishism
+http://purl.obolibrary.org/obo/DOID_12399,pathological gambling
+http://purl.obolibrary.org/obo/DOID_12400,kleptomania
+http://purl.obolibrary.org/obo/DOID_12401,intermittent explosive disorder
+http://purl.obolibrary.org/obo/DOID_12402,pyromania
+http://purl.obolibrary.org/obo/DOID_12797,hallucinogen abuse
+http://purl.obolibrary.org/obo/DOID_13027,transient global amnesia
+http://purl.obolibrary.org/obo/DOID_1307,dementia
+http://purl.obolibrary.org/obo/DOID_13351,pedophilia
+http://purl.obolibrary.org/obo/DOID_13352,ego-dystonic sexual orientation
+http://purl.obolibrary.org/obo/DOID_13709,premature ejaculation
+http://purl.obolibrary.org/obo/DOID_14320,generalized anxiety disorder
+http://purl.obolibrary.org/obo/DOID_14320,generalized anxiety disorder
+http://purl.obolibrary.org/obo/DOID_1470,major depressive disorder
+http://purl.obolibrary.org/obo/DOID_150,disease of mental health
+http://purl.obolibrary.org/obo/DOID_1561,cognitive disorder
+http://purl.obolibrary.org/obo/DOID_1561,cognitive disorder
+http://purl.obolibrary.org/obo/DOID_1595,endogenous depression
+http://purl.obolibrary.org/obo/DOID_1595,melancholic depression
+http://purl.obolibrary.org/obo/DOID_1596,depressive disorder
+http://purl.obolibrary.org/obo/DOID_1596,mental depression
+http://purl.obolibrary.org/obo/DOID_1742,drug psychosis
+http://purl.obolibrary.org/obo/DOID_1849,cannabis dependence
+http://purl.obolibrary.org/obo/DOID_1875,impotence
+http://purl.obolibrary.org/obo/DOID_1876,sexual dysfunction
+http://purl.obolibrary.org/obo/DOID_2030,anxiety disorder
+http://purl.obolibrary.org/obo/DOID_2030,anxiety disorder
+http://purl.obolibrary.org/obo/DOID_2055,post-traumatic stress disorder
+http://purl.obolibrary.org/obo/DOID_2468,psychotic disorder
+http://purl.obolibrary.org/obo/DOID_2468,psychotic disorder
+http://purl.obolibrary.org/obo/DOID_251,alcohol-induced mental disorder
+http://purl.obolibrary.org/obo/DOID_252,alcoholic psychosis
+http://purl.obolibrary.org/obo/DOID_2559,opiate dependence
+http://purl.obolibrary.org/obo/DOID_2560,morphine dependence
+http://purl.obolibrary.org/obo/DOID_2575,barbiturate dependence
+http://purl.obolibrary.org/obo/DOID_2848,melancholia
+http://purl.obolibrary.org/obo/DOID_2848,obsolete melancholia
+http://purl.obolibrary.org/obo/DOID_302,substance abuse
+http://purl.obolibrary.org/obo/DOID_303,substance-related disorder
+http://purl.obolibrary.org/obo/DOID_3324,mood disorder
+http://purl.obolibrary.org/obo/DOID_3324,mood disorder
+http://purl.obolibrary.org/obo/DOID_4,disease
+http://purl.obolibrary.org/obo/DOID_4543,retrograde amnesia
+http://purl.obolibrary.org/obo/DOID_4737,somatoform disorder
+http://purl.obolibrary.org/obo/DOID_4762,vasculogenic impotence
+http://purl.obolibrary.org/obo/DOID_4964,neurotic disorder
+http://purl.obolibrary.org/obo/DOID_5062,phencyclidine abuse
+http://purl.obolibrary.org/obo/DOID_507,adjustment disorder
+http://purl.obolibrary.org/obo/DOID_5340,anterograde amnesia
+http://purl.obolibrary.org/obo/DOID_5418,schizoaffective disorder
+http://purl.obolibrary.org/obo/DOID_5419,schizophrenia
+http://purl.obolibrary.org/obo/DOID_591,phobic disorder
+http://purl.obolibrary.org/obo/DOID_591,phobic disorder
+http://purl.obolibrary.org/obo/DOID_593,agoraphobia
+http://purl.obolibrary.org/obo/DOID_593,agoraphobia
+http://purl.obolibrary.org/obo/DOID_594,panic disorder
+http://purl.obolibrary.org/obo/DOID_594,panic disorder
+http://purl.obolibrary.org/obo/DOID_599,specific phobia
+http://purl.obolibrary.org/obo/DOID_599,specific phobia
+http://purl.obolibrary.org/obo/DOID_600,animal phobia
+http://purl.obolibrary.org/obo/DOID_602,cancerophobia
+http://purl.obolibrary.org/obo/DOID_603,AIDS phobia
+http://purl.obolibrary.org/obo/DOID_605,flying phobia
+http://purl.obolibrary.org/obo/DOID_6088,acute stress disorder
+http://purl.obolibrary.org/obo/DOID_6680,Capgras syndrome
+http://purl.obolibrary.org/obo/DOID_670,amphetamine abuse
+http://purl.obolibrary.org/obo/DOID_6950,combat disorder
+http://purl.obolibrary.org/obo/DOID_778,delusional disorder
+http://purl.obolibrary.org/obo/DOID_778,delusional disorder
+http://purl.obolibrary.org/obo/DOID_809,cocaine abuse
+http://purl.obolibrary.org/obo/DOID_8519,barbiturate abuse
+http://purl.obolibrary.org/obo/DOID_8645,subacute delirium
+http://purl.obolibrary.org/obo/DOID_8646,substance-induced psychosis
+http://purl.obolibrary.org/obo/DOID_8725,vascular dementia
+http://purl.obolibrary.org/obo/DOID_9336,bestiality
+http://purl.obolibrary.org/obo/DOID_9478,postpartum depression
+http://purl.obolibrary.org/obo/DOID_9505,cannabis abuse
+http://purl.obolibrary.org/obo/DOID_9973,substance dependence
+http://purl.obolibrary.org/obo/DOID_9974,drug dependence
+http://purl.obolibrary.org/obo/DOID_9975,cocaine dependence
+http://purl.obolibrary.org/obo/DOID_9976,heroin dependence
+http://purl.obolibrary.org/obo/DOID_9977,hallucinogen dependence
+http://purl.obolibrary.org/obo/GO_0001661,conditioned taste aversion
+http://purl.obolibrary.org/obo/GO_0001662,behavioral fear response
+http://purl.obolibrary.org/obo/GO_0001967,suckling behavior
+http://purl.obolibrary.org/obo/GO_0002023,reduction of food intake in response to dietary excess
+http://purl.obolibrary.org/obo/GO_0002118,aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002118,aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002120,predatory behavior
+http://purl.obolibrary.org/obo/GO_0002121,inter-male aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002122,fear-induced aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002123,irritable aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002124,territorial aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002125,maternal aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002126,instrumental aggressive behavior
+http://purl.obolibrary.org/obo/GO_0002209,behavioral defense response
+http://purl.obolibrary.org/obo/GO_0002210,behavioral response to wounding
+http://purl.obolibrary.org/obo/GO_0002211,behavioral defense response to insect
+http://purl.obolibrary.org/obo/GO_0002212,behavioral defense response to nematode
+http://purl.obolibrary.org/obo/GO_0003008,system process
+http://purl.obolibrary.org/obo/GO_0003051,angiotensin-mediated drinking behavior
+http://purl.obolibrary.org/obo/GO_0007610,behavior
+http://purl.obolibrary.org/obo/GO_0007610,behavior
+http://purl.obolibrary.org/obo/GO_0007611,learning or memory
+http://purl.obolibrary.org/obo/GO_0007612,learning
+http://purl.obolibrary.org/obo/GO_0007613,memory
+http://purl.obolibrary.org/obo/GO_0007614,short-term memory
+http://purl.obolibrary.org/obo/GO_0007615,anesthesia-resistant memory
+http://purl.obolibrary.org/obo/GO_0007616,long-term memory
+http://purl.obolibrary.org/obo/GO_0007617,mating behavior
+http://purl.obolibrary.org/obo/GO_0007619,courtship behavior
+http://purl.obolibrary.org/obo/GO_0007619,courtship behavior
+http://purl.obolibrary.org/obo/GO_0007621,negative regulation of female receptivity
+http://purl.obolibrary.org/obo/GO_0007622,rhythmic behavior
+http://purl.obolibrary.org/obo/GO_0007625,grooming behavior
+http://purl.obolibrary.org/obo/GO_0007626,locomotory behavior
+http://purl.obolibrary.org/obo/GO_0007628,adult walking behavior
+http://purl.obolibrary.org/obo/GO_0007629,flight behavior
+http://purl.obolibrary.org/obo/GO_0007630,jump response
+http://purl.obolibrary.org/obo/GO_0007631,feeding behavior
+http://purl.obolibrary.org/obo/GO_0007632,visual behavior
+http://purl.obolibrary.org/obo/GO_0007633,pattern orientation
+http://purl.obolibrary.org/obo/GO_0007634,optokinetic behavior
+http://purl.obolibrary.org/obo/GO_0007635,chemosensory behavior
+http://purl.obolibrary.org/obo/GO_0007636,chemosensory jump behavior
+http://purl.obolibrary.org/obo/GO_0007637,proboscis extension reflex
+http://purl.obolibrary.org/obo/GO_0007638,mechanosensory behavior
+http://purl.obolibrary.org/obo/GO_0008049,male courtship behavior
+http://purl.obolibrary.org/obo/GO_0008050,female courtship behavior
+http://purl.obolibrary.org/obo/GO_0008062,eclosion rhythm
+http://purl.obolibrary.org/obo/GO_0008150,biological process
+http://purl.obolibrary.org/obo/GO_0008306,associative learning
+http://purl.obolibrary.org/obo/GO_0008343,adult feeding behavior
+http://purl.obolibrary.org/obo/GO_0008344,adult locomotory behavior
+http://purl.obolibrary.org/obo/GO_0008345,larval locomotory behavior
+http://purl.obolibrary.org/obo/GO_0008346,larval walking behavior
+http://purl.obolibrary.org/obo/GO_0008355,olfactory learning
+http://purl.obolibrary.org/obo/GO_0008542,visual learning
+http://purl.obolibrary.org/obo/GO_0016543,male courtship behavior, orientation prior to leg tapping and wing vibration
+http://purl.obolibrary.org/obo/GO_0016544,male courtship behavior, tapping to detect pheromone
+http://purl.obolibrary.org/obo/GO_0016545,male courtship behavior, veined wing vibration
+http://purl.obolibrary.org/obo/GO_0016546,male courtship behavior, proboscis-mediated licking
+http://purl.obolibrary.org/obo/GO_0018991,oviposition
+http://purl.obolibrary.org/obo/GO_0019098,reproductive behavior
+http://purl.obolibrary.org/obo/GO_0019098,reproductive behavior
+http://purl.obolibrary.org/obo/GO_0022410,circadian sleep/wake cycle process
+http://purl.obolibrary.org/obo/GO_0030534,adult behavior
+http://purl.obolibrary.org/obo/GO_0030536,larval feeding behavior
+http://purl.obolibrary.org/obo/GO_0030537,larval behavior
+http://purl.obolibrary.org/obo/GO_0031223,auditory behavior
+http://purl.obolibrary.org/obo/GO_0032501,multicellular organismal process
+http://purl.obolibrary.org/obo/GO_0032537,host-seeking behavior
+http://purl.obolibrary.org/obo/GO_0034606,response to hermaphrodite contact
+http://purl.obolibrary.org/obo/GO_0034607,turning behavior involved in mating
+http://purl.obolibrary.org/obo/GO_0034608,vulval location
+http://purl.obolibrary.org/obo/GO_0034609,spicule insertion
+http://purl.obolibrary.org/obo/GO_0035095,behavioral response to nicotine
+http://purl.obolibrary.org/obo/GO_0035106,operant conditioning
+http://purl.obolibrary.org/obo/GO_0035176,social behavior
+http://purl.obolibrary.org/obo/GO_0035177,larval foraging behavior
+http://purl.obolibrary.org/obo/GO_0035178,turning behavior
+http://purl.obolibrary.org/obo/GO_0035179,larval turning behavior
+http://purl.obolibrary.org/obo/GO_0035180,larval wandering behavior
+http://purl.obolibrary.org/obo/GO_0035181,larval burrowing behavior
+http://purl.obolibrary.org/obo/GO_0035187,hatching behavior
+http://purl.obolibrary.org/obo/GO_0035199,salt aversion
+http://purl.obolibrary.org/obo/GO_0035640,exploration behavior
+http://purl.obolibrary.org/obo/GO_0035641,locomotory exploration behavior
+http://purl.obolibrary.org/obo/GO_0035648,circadian mating behavior
+http://purl.obolibrary.org/obo/GO_0035737,injection of substance in to other organism
+http://purl.obolibrary.org/obo/GO_0035738,envenomation resulting in modification of morphology or physiology of other organism
+http://purl.obolibrary.org/obo/GO_0036269,swimming behavior
+http://purl.obolibrary.org/obo/GO_0036343,psychomotor behavior
+http://purl.obolibrary.org/obo/GO_0040040,thermosensory behavior
+http://purl.obolibrary.org/obo/GO_0042048,olfactory behavior
+http://purl.obolibrary.org/obo/GO_0042297,vocal learning
+http://purl.obolibrary.org/obo/GO_0042628,mating plug formation
+http://purl.obolibrary.org/obo/GO_0042630,behavioral response to water deprivation
+http://purl.obolibrary.org/obo/GO_0042711,maternal behavior
+http://purl.obolibrary.org/obo/GO_0042712,paternal behavior
+http://purl.obolibrary.org/obo/GO_0042745,circadian sleep/wake cycle
+http://purl.obolibrary.org/obo/GO_0042746,circadian sleep/wake cycle, wakefulness
+http://purl.obolibrary.org/obo/GO_0042747,circadian sleep/wake cycle, REM sleep
+http://purl.obolibrary.org/obo/GO_0042748,circadian sleep/wake cycle, non-REM sleep
+http://purl.obolibrary.org/obo/GO_0042755,eating behavior
+http://purl.obolibrary.org/obo/GO_0042756,drinking behavior
+http://purl.obolibrary.org/obo/GO_0043050,pharyngeal pumping
+http://purl.obolibrary.org/obo/GO_0044358,envenomation resulting in hemorrhagic damage to other organism
+http://purl.obolibrary.org/obo/GO_0044365,envenomation resulting in modulation of platelet aggregation in other organism
+http://purl.obolibrary.org/obo/GO_0044370,injection of substance into other organism during feeding on blood of other organism
+http://purl.obolibrary.org/obo/GO_0044398,envenomation resulting in induction of edema in other organism
+http://purl.obolibrary.org/obo/GO_0044468,envenomation resulting in modulation of blood coagulation in other organism
+http://purl.obolibrary.org/obo/GO_0044469,envenomation resulting in positive regulation of blood coagulation in other organism
+http://purl.obolibrary.org/obo/GO_0044470,envenomation resulting in negative regulation of blood coagulation in other organism
+http://purl.obolibrary.org/obo/GO_0044471,envenomation resulting in pore formation in membrane of other organism
+http://purl.obolibrary.org/obo/GO_0044472,envenomation resulting in modulation of calcium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044473,envenomation resulting in negative regulation of calcium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044474,envenomation resulting in negative regulation of voltage-gated calcium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044475,envenomation resulting in negative regulation of high voltage-gated calcium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044476,envenomation resulting in negative regulation of low voltage-gated calcium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044477,envenomation resulting in negative regulation of platelet aggregation in other organism
+http://purl.obolibrary.org/obo/GO_0044478,envenomation resulting in positive regulation of platelet aggregation in other organism
+http://purl.obolibrary.org/obo/GO_0044479,envenomation resulting in modulation of mast cell degranulation in other organism
+http://purl.obolibrary.org/obo/GO_0044480,envenomation resulting in positive regulation of mast cell degranulation in other organism
+http://purl.obolibrary.org/obo/GO_0044481,envenomation resulting in proteolysis in other organism
+http://purl.obolibrary.org/obo/GO_0044482,envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in other organism
+http://purl.obolibrary.org/obo/GO_0044483,envenomation resulting in impairment of hemostasis in other organism
+http://purl.obolibrary.org/obo/GO_0044484,envenomation resulting in fibrinolysis in other organism
+http://purl.obolibrary.org/obo/GO_0044485,envenomation resulting in fibrinogenolysis in other organism
+http://purl.obolibrary.org/obo/GO_0044487,envenomation resulting in modulation of transmission of nerve impulse in other organism
+http://purl.obolibrary.org/obo/GO_0044492,envenomation resulting in modulation of voltage-gated sodium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044493,envenomation resulting in negative regulation of voltage-gated sodium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044494,envenomation resulting in positive regulation of voltage-gated sodium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044498,envenomation resulting in modulation of blood pressure in other organism
+http://purl.obolibrary.org/obo/GO_0044499,envenomation resulting in positive regulation of blood pressure in other organism
+http://purl.obolibrary.org/obo/GO_0044500,envenomation resulting in negative regulation of blood pressure in other organism
+http://purl.obolibrary.org/obo/GO_0044509,envenomation resulting in modulation of signal transduction in other organism
+http://purl.obolibrary.org/obo/GO_0044510,envenomation resulting in positive regulation of signal transduction in other organism
+http://purl.obolibrary.org/obo/GO_0044511,envenomation resulting in modulation of receptor activity in other organism
+http://purl.obolibrary.org/obo/GO_0044512,envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in other organism
+http://purl.obolibrary.org/obo/GO_0044513,envenomation resulting in modulation of G-protein coupled receptor activity in other organism
+http://purl.obolibrary.org/obo/GO_0044514,envenomation resulting in positive regulation of G-protein coupled receptor activity in other organism
+http://purl.obolibrary.org/obo/GO_0044515,envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in other organism
+http://purl.obolibrary.org/obo/GO_0044519,envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism
+http://purl.obolibrary.org/obo/GO_0044520,envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism
+http://purl.obolibrary.org/obo/GO_0044521,envenomation resulting in muscle damage in other organism
+http://purl.obolibrary.org/obo/GO_0044522,envenomation resulting in myocyte killing in other organism
+http://purl.obolibrary.org/obo/GO_0044523,envenomation resulting in damage of muscle extracellular matrix in other organism
+http://purl.obolibrary.org/obo/GO_0044534,envenomation resulting in modulation of apoptotic process in other organism
+http://purl.obolibrary.org/obo/GO_0044536,envenomation resulting in depletion of circulating fibrinogen in other organism
+http://purl.obolibrary.org/obo/GO_0044543,envenomation resulting in zymogen activation in other organism
+http://purl.obolibrary.org/obo/GO_0044544,envenomation resulting in plasminogen activation in other organism
+http://purl.obolibrary.org/obo/GO_0044551,envenomation resulting in vasodilation in other organism
+http://purl.obolibrary.org/obo/GO_0044556,envenomation resulting in negative regulation of heart rate of other organism
+http://purl.obolibrary.org/obo/GO_0044559,envenomation resulting in modulation of voltage-gated potassium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044560,envenomation resulting in modulation of ion channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044562,envenomation resulting in negative regulation of voltage-gated potassium channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044563,envenomation resulting in slowing of activation kinetics of voltage-gated potassium channel in other organism
+http://purl.obolibrary.org/obo/GO_0044564,envenomation resulting in occlusion of the pore of voltage-gated potassium channel in other organism
+http://purl.obolibrary.org/obo/GO_0044624,envenomation resulting in modulation of cell migration in other organism
+http://purl.obolibrary.org/obo/GO_0044625,envenomation resulting in negative regulation of cell migration in other organism
+http://purl.obolibrary.org/obo/GO_0044626,envenomation resulting in positive regulation of cell migration in other organism
+http://purl.obolibrary.org/obo/GO_0044636,envenomation resulting in modulation of complement activation, classical pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044637,envenomation resulting in negative regulation of complement activation, classical pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044638,envenomation resulting in positive regulation of complement activation, classical pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044639,envenomation resulting in modulation of complement activation, lectin pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044640,envenomation resulting in negative regulation of complement activation, lectin pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044641,envenomation resulting in positive regulation of complement activation, lectin pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044642,envenomation resulting in modulation of complement activation, alternative pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044643,envenomation resulting in positive regulation of complement activation, alternative pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044644,envenomation resulting in negative regulation of complement activation, alternative pathway in other organism
+http://purl.obolibrary.org/obo/GO_0044646,envenomation resulting in modulation of complement activation in other organism
+http://purl.obolibrary.org/obo/GO_0044649,envenomation resulting in cytolysis in other organism
+http://purl.obolibrary.org/obo/GO_0044705,multi-organism reproductive behavior
+http://purl.obolibrary.org/obo/GO_0044733,envenomation resulting in modulation of acid-sensing ion channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044734,envenomation resulting in positive regulation of acid-sensing ion channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044735,envenomation resulting in negative regulation of acid-sensing ion channel activity in other organism
+http://purl.obolibrary.org/obo/GO_0044741,envenomation resulting in negative regulation of sensory perception of pain in other organism
+http://purl.obolibrary.org/obo/GO_0044742,envenomation resulting in modulation of sensory perception of pain in other organism
+http://purl.obolibrary.org/obo/GO_0045297,post-mating behavior
+http://purl.obolibrary.org/obo/GO_0045433,male courtship behavior, veined wing generated song production
+http://purl.obolibrary.org/obo/GO_0045434,negative regulation of female receptivity, post-mating
+http://purl.obolibrary.org/obo/GO_0045475,locomotor rhythm
+http://purl.obolibrary.org/obo/GO_0045924,regulation of female receptivity
+http://purl.obolibrary.org/obo/GO_0045925,positive regulation of female receptivity
+http://purl.obolibrary.org/obo/GO_0046008,regulation of female receptivity, post-mating
+http://purl.obolibrary.org/obo/GO_0046009,positive regulation of female receptivity, post-mating
+http://purl.obolibrary.org/obo/GO_0046958,nonassociative learning
+http://purl.obolibrary.org/obo/GO_0046959,habituation
+http://purl.obolibrary.org/obo/GO_0046960,sensitization
+http://purl.obolibrary.org/obo/GO_0048047,mating behavior, sex discrimination
+http://purl.obolibrary.org/obo/GO_0048065,male courtship behavior, veined wing extension
+http://purl.obolibrary.org/obo/GO_0048148,behavioral response to cocaine
+http://purl.obolibrary.org/obo/GO_0048149,behavioral response to ethanol
+http://purl.obolibrary.org/obo/GO_0048150,behavioral response to ether
+http://purl.obolibrary.org/obo/GO_0048266,behavioral response to pain
+http://purl.obolibrary.org/obo/GO_0048512,circadian behavior
+http://purl.obolibrary.org/obo/GO_0050802,circadian sleep/wake cycle, sleep
+http://purl.obolibrary.org/obo/GO_0050877,nervous system process
+http://purl.obolibrary.org/obo/GO_0051705,multi-organism behavior
+http://purl.obolibrary.org/obo/GO_0051705,multi-organism behavior
+http://purl.obolibrary.org/obo/GO_0051780,behavioral response to nutrient
+http://purl.obolibrary.org/obo/GO_0051867,general adaptation syndrome, behavioral process
+http://purl.obolibrary.org/obo/GO_0060179,male mating behavior
+http://purl.obolibrary.org/obo/GO_0060180,female mating behavior
+http://purl.obolibrary.org/obo/GO_0060273,crying behavior
+http://purl.obolibrary.org/obo/GO_0060403,post-mating oviposition
+http://purl.obolibrary.org/obo/GO_0060746,parental behavior
+http://purl.obolibrary.org/obo/GO_0060747,oral incubation
+http://purl.obolibrary.org/obo/GO_0060756,foraging behavior
+http://purl.obolibrary.org/obo/GO_0060757,adult foraging behavior
+http://purl.obolibrary.org/obo/GO_0060758,foraging behavior by probing substrate
+http://purl.obolibrary.org/obo/GO_0061366,behavioral response to chemical pain
+http://purl.obolibrary.org/obo/GO_0061367,behavioral response to acetic acid induced pain
+http://purl.obolibrary.org/obo/GO_0061368,behavioral response to formalin induced pain
+http://purl.obolibrary.org/obo/GO_0061743,motor learning
+http://purl.obolibrary.org/obo/GO_0061744,motor behavior
+http://purl.obolibrary.org/obo/GO_0071625,vocalization behavior
+http://purl.obolibrary.org/obo/GO_0071625,vocalization behavior
+http://purl.obolibrary.org/obo/GO_0071632,optomotor response
+http://purl.obolibrary.org/obo/GO_0072375,medium-term memory
+http://purl.obolibrary.org/obo/GO_0090659,walking behavior
+http://purl.obolibrary.org/obo/GO_0097270,dishabituation
+http://purl.obolibrary.org/obo/GO_0098582,innate vocalization behavior
+http://purl.obolibrary.org/obo/GO_0098583,learned vocalization behavior
+http://purl.obolibrary.org/obo/GO_0098596,imitative learning
+http://purl.obolibrary.org/obo/GO_0098597,observational learning
+http://purl.obolibrary.org/obo/GO_0098598,learned vocalization behavior or vocal learning
+http://purl.obolibrary.org/obo/GO_0099127,envenomation resulting in positive regulation of argininosuccinate synthase activity in other organism
+http://purl.obolibrary.org/obo/GO_1990142,envenomation resulting in hemolysis in other organism
+http://purl.obolibrary.org/obo/GO_1990708,conditioned place preference
+http://purl.obolibrary.org/obo/GSSO_000086,social communication
+http://purl.obolibrary.org/obo/GSSO_000413,cinsel rol davranışı
+http://purl.obolibrary.org/obo/GSSO_000413,comportement sexuel
+http://purl.obolibrary.org/obo/GSSO_000413,sexual behavior
+http://purl.obolibrary.org/obo/GSSO_000414,seksualitet
+http://purl.obolibrary.org/obo/GSSO_000414,sexuality
+http://purl.obolibrary.org/obo/GSSO_000416,plant sexuality
+http://purl.obolibrary.org/obo/GSSO_000433,sexually aggressive behavior
+http://purl.obolibrary.org/obo/GSSO_000700,allosexuality
+http://purl.obolibrary.org/obo/GSSO_000711,gray asexuality
+http://purl.obolibrary.org/obo/GSSO_000918,breast envy
+http://purl.obolibrary.org/obo/GSSO_000919,penis envy
+http://purl.obolibrary.org/obo/GSSO_000920,vagina envy
+http://purl.obolibrary.org/obo/GSSO_000921,womb envy
+http://purl.obolibrary.org/obo/GSSO_000952,LGBTQ event
+http://purl.obolibrary.org/obo/GSSO_000953,bisexual event
+http://purl.obolibrary.org/obo/GSSO_000954,lesbian event
+http://purl.obolibrary.org/obo/GSSO_000955,gay male event
+http://purl.obolibrary.org/obo/GSSO_000956,transgender event
+http://purl.obolibrary.org/obo/GSSO_000957,intersex event
+http://purl.obolibrary.org/obo/GSSO_000958,asexual event
+http://purl.obolibrary.org/obo/GSSO_000959,organized event
+http://purl.obolibrary.org/obo/GSSO_000960,meeting
+http://purl.obolibrary.org/obo/GSSO_000961,academic conference
+http://purl.obolibrary.org/obo/GSSO_000962,ceremony
+http://purl.obolibrary.org/obo/GSSO_000963,commencement
+http://purl.obolibrary.org/obo/GSSO_000964,medical conference
+http://purl.obolibrary.org/obo/GSSO_000965,convention
+http://purl.obolibrary.org/obo/GSSO_000966,social event
+http://purl.obolibrary.org/obo/GSSO_000967,debate
+http://purl.obolibrary.org/obo/GSSO_000968,party
+http://purl.obolibrary.org/obo/GSSO_000969,parade
+http://purl.obolibrary.org/obo/GSSO_000970,cultural event
+http://purl.obolibrary.org/obo/GSSO_000971,cultural conference
+http://purl.obolibrary.org/obo/GSSO_000972,festival
+http://purl.obolibrary.org/obo/GSSO_000973,arts event
+http://purl.obolibrary.org/obo/GSSO_000974,music event
+http://purl.obolibrary.org/obo/GSSO_000975,sexuality and gender identity-based events
+http://purl.obolibrary.org/obo/GSSO_000976,gender identity-based event
+http://purl.obolibrary.org/obo/GSSO_000977,men's event
+http://purl.obolibrary.org/obo/GSSO_000978,women's event
+http://purl.obolibrary.org/obo/GSSO_000979,LGBTQ festival
+http://purl.obolibrary.org/obo/GSSO_000980,LGBTQ conference
+http://purl.obolibrary.org/obo/GSSO_000981,LGBTQ parade
+http://purl.obolibrary.org/obo/GSSO_000982,LGBTQ party
+http://purl.obolibrary.org/obo/GSSO_000984,film festival
+http://purl.obolibrary.org/obo/GSSO_000986,fictional event
+http://purl.obolibrary.org/obo/GSSO_000987,gender expression-based event
+http://purl.obolibrary.org/obo/GSSO_000988,cross-dressing event
+http://purl.obolibrary.org/obo/GSSO_000989,sexuality-based event
+http://purl.obolibrary.org/obo/GSSO_000990,sexual orientation-based event
+http://purl.obolibrary.org/obo/GSSO_000991,sexual fetish-based event
+http://purl.obolibrary.org/obo/GSSO_000992,nonbinary event
+http://purl.obolibrary.org/obo/GSSO_000993,transfeminine event
+http://purl.obolibrary.org/obo/GSSO_000994,transmasculine event
+http://purl.obolibrary.org/obo/GSSO_000995,march
+http://purl.obolibrary.org/obo/GSSO_000996,LGBTQ march
+http://purl.obolibrary.org/obo/GSSO_000997,transgender march
+http://purl.obolibrary.org/obo/GSSO_001001,transgender conference
+http://purl.obolibrary.org/obo/GSSO_001005,bisexual conference
+http://purl.obolibrary.org/obo/GSSO_001008,bisexual festival
+http://purl.obolibrary.org/obo/GSSO_001010,drag event
+http://purl.obolibrary.org/obo/GSSO_001013,lavender graduation
+http://purl.obolibrary.org/obo/GSSO_001014,lesbian march
+http://purl.obolibrary.org/obo/GSSO_001015,dyke march
+http://purl.obolibrary.org/obo/GSSO_001018,LGBTQ commemorative event
+http://purl.obolibrary.org/obo/GSSO_001021,LGBTQ pride parade
+http://purl.obolibrary.org/obo/GSSO_001022,LGBTQ awareness event
+http://purl.obolibrary.org/obo/GSSO_001154,erotic party
+http://purl.obolibrary.org/obo/GSSO_001155,ball
+http://purl.obolibrary.org/obo/GSSO_001156,drag ball
+http://purl.obolibrary.org/obo/GSSO_001157,dance party
+http://purl.obolibrary.org/obo/GSSO_001158,sex toy party
+http://purl.obolibrary.org/obo/GSSO_001159,naked party
+http://purl.obolibrary.org/obo/GSSO_001198,women's festival
+http://purl.obolibrary.org/obo/GSSO_001199,music festival
+http://purl.obolibrary.org/obo/GSSO_001367,menstrual pain
+http://purl.obolibrary.org/obo/GSSO_001376,LGBTQ film festival
+http://purl.obolibrary.org/obo/GSSO_001377,transgender film festival
+http://purl.obolibrary.org/obo/GSSO_001378,drag show
+http://purl.obolibrary.org/obo/GSSO_001379,non-heterosexuality
+http://purl.obolibrary.org/obo/GSSO_001805,abnormal behavior
+http://purl.obolibrary.org/obo/GSSO_001806,unusual behavior
+http://purl.obolibrary.org/obo/GSSO_001807,addictive behavior
+http://purl.obolibrary.org/obo/GSSO_001808,autistic behavior
+http://purl.obolibrary.org/obo/GSSO_001818,voice
+http://purl.obolibrary.org/obo/GSSO_001819,gendered voice
+http://purl.obolibrary.org/obo/GSSO_001820,feminine voice
+http://purl.obolibrary.org/obo/GSSO_001821,masculine voice
+http://purl.obolibrary.org/obo/GSSO_001822,transgender voice
+http://purl.obolibrary.org/obo/GSSO_001823,transfeminine voice
+http://purl.obolibrary.org/obo/GSSO_001824,transmasculine voice
+http://purl.obolibrary.org/obo/GSSO_001851,hypersexual behavior
+http://purl.obolibrary.org/obo/GSSO_001852,hyposexual behavior
+http://purl.obolibrary.org/obo/GSSO_001873,abnormal sexual behavior
+http://purl.obolibrary.org/obo/GSSO_001874,impulsive behavior
+http://purl.obolibrary.org/obo/GSSO_001875,compulsive behavior
+http://purl.obolibrary.org/obo/GSSO_001876,compulsive sexual behavior
+http://purl.obolibrary.org/obo/GSSO_001877,repetitive compulsive behavior
+http://purl.obolibrary.org/obo/GSSO_001879,nonparaphilic compulsive sexual behavior
+http://purl.obolibrary.org/obo/GSSO_001880,compulsive masturbation
+http://purl.obolibrary.org/obo/GSSO_001881,nonparaphilic hypersexual behavior
+http://purl.obolibrary.org/obo/GSSO_001917,sexual pain
+http://purl.obolibrary.org/obo/GSSO_001918,ejaculatory pain
+http://purl.obolibrary.org/obo/GSSO_002815,misandri
+http://purl.obolibrary.org/obo/GSSO_002815,misandry
+http://purl.obolibrary.org/obo/GSSO_002816,misogyni
+http://purl.obolibrary.org/obo/GSSO_002816,misogyny
+http://purl.obolibrary.org/obo/GSSO_002817,self-hate
+http://purl.obolibrary.org/obo/GSSO_002818,misanthropy
+http://purl.obolibrary.org/obo/GSSO_002819,self-loathing
+http://purl.obolibrary.org/obo/GSSO_002850,internalized misandry
+http://purl.obolibrary.org/obo/GSSO_002851,internalized misogyny
+http://purl.obolibrary.org/obo/GSSO_002852,transmisogyny
+http://purl.obolibrary.org/obo/GSSO_002883,misogynoir
+http://purl.obolibrary.org/obo/GSSO_002884,transmisogynoir
+http://purl.obolibrary.org/obo/GSSO_003246,transmisandry
+http://purl.obolibrary.org/obo/GSSO_003267,oculesics
+http://purl.obolibrary.org/obo/GSSO_003268,gaze
+http://purl.obolibrary.org/obo/GSSO_003269,male gaze
+http://purl.obolibrary.org/obo/GSSO_003270,gendered gaze
+http://purl.obolibrary.org/obo/GSSO_003271,female gaze
+http://purl.obolibrary.org/obo/GSSO_003272,oppositional gaze
+http://purl.obolibrary.org/obo/GSSO_003273,postcolonial gaze
+http://purl.obolibrary.org/obo/GSSO_003274,male tourist gaze
+http://purl.obolibrary.org/obo/GSSO_003276,occupational gaze
+http://purl.obolibrary.org/obo/GSSO_003277,medical gaze
+http://purl.obolibrary.org/obo/GSSO_003281,cisgender gaze
+http://purl.obolibrary.org/obo/GSSO_003310,sexually abusive behavior
+http://purl.obolibrary.org/obo/GSSO_003548,autosexuality
+http://purl.obolibrary.org/obo/GSSO_003714,anatomical envy
+http://purl.obolibrary.org/obo/GSSO_003878,sexuality gaze
+http://purl.obolibrary.org/obo/GSSO_003879,straight gaze
+http://purl.obolibrary.org/obo/GSSO_003896,transition regret
+http://purl.obolibrary.org/obo/GSSO_004121,erotic humiliation
+http://purl.obolibrary.org/obo/GSSO_004173,drag brunch
+http://purl.obolibrary.org/obo/GSSO_004437,parturition envy
+http://purl.obolibrary.org/obo/GSSO_004492,transgender party
+http://purl.obolibrary.org/obo/GSSO_004493,gender repeal party
+http://purl.obolibrary.org/obo/GSSO_004494,shower
+http://purl.obolibrary.org/obo/GSSO_004495,gender reveal party
+http://purl.obolibrary.org/obo/GSSO_004496,baby shower
+http://purl.obolibrary.org/obo/GSSO_004502,microaggressive behavior
+http://purl.obolibrary.org/obo/GSSO_004504,microassault
+http://purl.obolibrary.org/obo/GSSO_004505,microinsult
+http://purl.obolibrary.org/obo/GSSO_004506,microinvalidation
+http://purl.obolibrary.org/obo/GSSO_004531,sexual frustration
+http://purl.obolibrary.org/obo/GSSO_004551,sex work-based event
+http://purl.obolibrary.org/obo/GSSO_004566,sexology conference
+http://purl.obolibrary.org/obo/GSSO_004691,sexual jealousy
+http://purl.obolibrary.org/obo/GSSO_004714,exclusion jealousy
+http://purl.obolibrary.org/obo/GSSO_004735,coital pain
+http://purl.obolibrary.org/obo/GSSO_004736,postcoital pain
+http://purl.obolibrary.org/obo/GSSO_004737,pericoital pain
+http://purl.obolibrary.org/obo/GSSO_004738,precoital pain
+http://purl.obolibrary.org/obo/GSSO_004739,penetrative pain
+http://purl.obolibrary.org/obo/GSSO_004741,orgasmic pain
+http://purl.obolibrary.org/obo/GSSO_004742,psychogenic coital pain
+http://purl.obolibrary.org/obo/GSSO_004743,physiological coital pain
+http://purl.obolibrary.org/obo/GSSO_004758,normal sexual behavior
+http://purl.obolibrary.org/obo/GSSO_004812,intrusive thought
+http://purl.obolibrary.org/obo/GSSO_004813,sexual thought
+http://purl.obolibrary.org/obo/GSSO_004814,harmful thought
+http://purl.obolibrary.org/obo/GSSO_004815,thought of self-harm
+http://purl.obolibrary.org/obo/GSSO_004816,suicidal thought
+http://purl.obolibrary.org/obo/GSSO_004820,sexually obscene thought
+http://purl.obolibrary.org/obo/GSSO_004821,thought of sexual violence
+http://purl.obolibrary.org/obo/GSSO_004822,thought of raping
+http://purl.obolibrary.org/obo/GSSO_004918,BDSM event
+http://purl.obolibrary.org/obo/GSSO_004919,play party
+http://purl.obolibrary.org/obo/GSSO_004924,transition shower
+http://purl.obolibrary.org/obo/GSSO_004940,public humiliation
+http://purl.obolibrary.org/obo/GSSO_005288,disease outbreak
+http://purl.obolibrary.org/obo/GSSO_005289,epidemic
+http://purl.obolibrary.org/obo/GSSO_005290,pandemic
+http://purl.obolibrary.org/obo/GSSO_005412,proxemics
+http://purl.obolibrary.org/obo/GSSO_005413,kinesics
+http://purl.obolibrary.org/obo/GSSO_005414,haptics
+http://purl.obolibrary.org/obo/GSSO_005415,chronemics
+http://purl.obolibrary.org/obo/GSSO_005416,vocalics
+http://purl.obolibrary.org/obo/GSSO_005417,kiss
+http://purl.obolibrary.org/obo/GSSO_005418,romantic kiss
+http://purl.obolibrary.org/obo/GSSO_005419,kisses by function
+http://purl.obolibrary.org/obo/GSSO_005420,kisses by anatomy
+http://purl.obolibrary.org/obo/GSSO_005421,cheek kiss
+http://purl.obolibrary.org/obo/GSSO_005422,nose kiss
+http://purl.obolibrary.org/obo/GSSO_005423,lip kiss
+http://purl.obolibrary.org/obo/GSSO_005424,hand kiss
+http://purl.obolibrary.org/obo/GSSO_005425,hug
+http://purl.obolibrary.org/obo/GSSO_005426,group hug
+http://purl.obolibrary.org/obo/GSSO_005427,forehead kiss
+http://purl.obolibrary.org/obo/GSSO_005428,ritualistic kiss
+http://purl.obolibrary.org/obo/GSSO_005429,kiss of peace
+http://purl.obolibrary.org/obo/GSSO_005430,kiss of respect
+http://purl.obolibrary.org/obo/GSSO_005431,deep kiss
+http://purl.obolibrary.org/obo/GSSO_005432,tongue kiss
+http://purl.obolibrary.org/obo/GSSO_005433,tickle
+http://purl.obolibrary.org/obo/GSSO_005435,friendly kiss
+http://purl.obolibrary.org/obo/GSSO_005436,gesture
+http://purl.obolibrary.org/obo/GSSO_005452,copulatory vocalization
+http://purl.obolibrary.org/obo/GSSO_005654,propaganda
+http://purl.obolibrary.org/obo/GSSO_005655,anti-LGBTQ propaganda
+http://purl.obolibrary.org/obo/GSSO_005656,homophobic propaganda
+http://purl.obolibrary.org/obo/GSSO_005657,transphobic propaganda
+http://purl.obolibrary.org/obo/GSSO_006026,safe move
+http://purl.obolibrary.org/obo/GSSO_006093,post-coital tristesse
+http://purl.obolibrary.org/obo/GSSO_006317,penis farewell party
+http://purl.obolibrary.org/obo/GSSO_006398,relationship event
+http://purl.obolibrary.org/obo/GSSO_006399,social date
+http://purl.obolibrary.org/obo/GSSO_006400,group dating
+http://purl.obolibrary.org/obo/GSSO_006401,missionary dating
+http://purl.obolibrary.org/obo/GSSO_006402,online dating
+http://purl.obolibrary.org/obo/GSSO_006403,speed dating
+http://purl.obolibrary.org/obo/GSSO_006404,blind dating
+http://purl.obolibrary.org/obo/GSSO_006405,mobile dating
+http://purl.obolibrary.org/obo/GSSO_006406,singles event
+http://purl.obolibrary.org/obo/GSSO_006576,passive-aggressive behavior
+http://purl.obolibrary.org/obo/GSSO_006626,handshake
+http://purl.obolibrary.org/obo/GSSO_006627,massage
+http://purl.obolibrary.org/obo/GSSO_006628,erotic massage
+http://purl.obolibrary.org/obo/GSSO_006629,make-out
+http://purl.obolibrary.org/obo/GSSO_006630,hold hands
+http://purl.obolibrary.org/obo/GSSO_006631,eye contact
+http://purl.obolibrary.org/obo/GSSO_006649,inappropriate speech
+http://purl.obolibrary.org/obo/GSSO_006650,LGBTQ-related speech
+http://purl.obolibrary.org/obo/GSSO_006651,gay male speech
+http://purl.obolibrary.org/obo/GSSO_006652,lesbian speech
+http://purl.obolibrary.org/obo/GSSO_006653,transgender speech
+http://purl.obolibrary.org/obo/GSSO_006655,echolalia
+http://purl.obolibrary.org/obo/GSSO_006656,coprolalia
+http://purl.obolibrary.org/obo/GSSO_006805,LGBTQ sports event
+http://purl.obolibrary.org/obo/GSSO_006808,women's march
+http://purl.obolibrary.org/obo/GSSO_006809,women's conference
+http://purl.obolibrary.org/obo/GSSO_006819,killing
+http://purl.obolibrary.org/obo/GSSO_006820,killing of other person
+http://purl.obolibrary.org/obo/GSSO_006821,killing of one person
+http://purl.obolibrary.org/obo/GSSO_006822,killing of multiple persons
+http://purl.obolibrary.org/obo/GSSO_007100,bodily disposition
+http://purl.obolibrary.org/obo/GSSO_007101,mental disposition
+http://purl.obolibrary.org/obo/GSSO_007102,personality
+http://purl.obolibrary.org/obo/GSSO_007143,systematic killing
+http://purl.obolibrary.org/obo/GSSO_007144,gendercide
+http://purl.obolibrary.org/obo/GSSO_007145,killing of a family member
+http://purl.obolibrary.org/obo/GSSO_007146,infanticide
+http://purl.obolibrary.org/obo/GSSO_007148,parenticide
+http://purl.obolibrary.org/obo/GSSO_007149,killing of a superior
+http://purl.obolibrary.org/obo/GSSO_007150,regicide
+http://purl.obolibrary.org/obo/GSSO_007151,siblicide
+http://purl.obolibrary.org/obo/GSSO_007212,social risk factor
+http://purl.obolibrary.org/obo/GSSO_007247,suggestive sexual behavior
+http://purl.obolibrary.org/obo/GSSO_007248,flirting
+http://purl.obolibrary.org/obo/GSSO_007315,divorce
+http://purl.obolibrary.org/obo/GSSO_007316,same-sex divorce
+http://purl.obolibrary.org/obo/GSSO_007317,different-sex divorce
+http://purl.obolibrary.org/obo/GSSO_007572,vielse
+http://purl.obolibrary.org/obo/GSSO_007572,wedding
+http://purl.obolibrary.org/obo/GSSO_007573,shotgun wedding
+http://purl.obolibrary.org/obo/GSSO_007589,romantic behavior
+http://purl.obolibrary.org/obo/GSSO_007632,slut shaming
+http://purl.obolibrary.org/obo/GSSO_007716,women's music festival
+http://purl.obolibrary.org/obo/GSSO_007878,tantric massage
+http://purl.obolibrary.org/obo/GSSO_007968,LGBTQ dance party
+http://purl.obolibrary.org/obo/GSSO_008044,LGBTQ literary festival
+http://purl.obolibrary.org/obo/GSSO_008045,circuit party
+http://purl.obolibrary.org/obo/GSSO_008046,LGBTQ tea dance
+http://purl.obolibrary.org/obo/GSSO_008047,LGBTQ music festival
+http://purl.obolibrary.org/obo/GSSO_008050,LGBTQ pride event
+http://purl.obolibrary.org/obo/GSSO_008421,drag bingo
+http://purl.obolibrary.org/obo/GSSO_008422,drag storytime
+http://purl.obolibrary.org/obo/GSSO_008423,gender-affirming pain
+http://purl.obolibrary.org/obo/GSSO_008578,seductive behavior
+http://purl.obolibrary.org/obo/GSSO_008762,fandom convention
+http://purl.obolibrary.org/obo/GSSO_008763,furry convention
+http://purl.obolibrary.org/obo/GSSO_008842,slash convention
+http://purl.obolibrary.org/obo/GSSO_008871,police propaganda
+http://purl.obolibrary.org/obo/GSSO_008999,voice of color
+http://purl.obolibrary.org/obo/GSSO_009005,survivor guilt
+http://purl.obolibrary.org/obo/GSSO_009184,anal kiss
+http://purl.obolibrary.org/obo/GSSO_009185,anal tickle
+http://purl.obolibrary.org/obo/GSSO_009332,lesbian film festival
+http://purl.obolibrary.org/obo/GSSO_009423,wrath
+http://purl.obolibrary.org/obo/GSSO_009424,LGBTQ wrath
+http://purl.obolibrary.org/obo/GSSO_009425,gay male wrath
+http://purl.obolibrary.org/obo/GSSO_009466,victim shaming
+http://purl.obolibrary.org/obo/GSSO_009496,film event
+http://purl.obolibrary.org/obo/GSSO_009497,variety arts event
+http://purl.obolibrary.org/obo/GSSO_009498,variety show
+http://purl.obolibrary.org/obo/GSSO_009499,burlesque show
+http://purl.obolibrary.org/obo/GSSO_009500,cabaret show
+http://purl.obolibrary.org/obo/GSSO_009617,manual gesture
+http://purl.obolibrary.org/obo/GSSO_009618,non-manual gesture
+http://purl.obolibrary.org/obo/GSSO_009619,facial expression
+http://purl.obolibrary.org/obo/GSSO_009667,home sign
+http://purl.obolibrary.org/obo/GSSO_009670,tyrannicide
+http://purl.obolibrary.org/obo/GSSO_009742,marital abandoment
+http://purl.obolibrary.org/obo/GSSO_009814,acceptive behavior
+http://purl.obolibrary.org/obo/GSSO_009815,proceptive behavior
+http://purl.obolibrary.org/obo/GSSO_009857,killing of a person based on gender
+http://purl.obolibrary.org/obo/GSSO_009858,femicide
+http://purl.obolibrary.org/obo/GSSO_009859,androcide
+http://purl.obolibrary.org/obo/GSSO_009860,transfemicide
+http://purl.obolibrary.org/obo/GSSO_009861,travesticide
+http://purl.obolibrary.org/obo/GSSO_009861,travesticidio
+http://purl.obolibrary.org/obo/GSSO_009862,transandrocide
+http://purl.obolibrary.org/obo/GSSO_010228,destructive behavior
+http://purl.obolibrary.org/obo/GSSO_010229,self-destructive behavior
+http://purl.obolibrary.org/obo/GSSO_010230,self-injurious behavior
+http://purl.obolibrary.org/obo/GSSO_010264,male-to-male gaze
+http://purl.obolibrary.org/obo/GSSO_010265,female-to-female gaze
+http://purl.obolibrary.org/obo/GSSO_010480,agender event
+http://purl.obolibrary.org/obo/GSSO_010483,aromantic event
+http://purl.obolibrary.org/obo/GSSO_010484,pansexual event
+http://purl.obolibrary.org/obo/GSSO_010485,panromantic event
+http://purl.obolibrary.org/obo/GSSO_011102,protest march
+http://purl.obolibrary.org/obo/GSSO_011187,outbreak
+http://purl.obolibrary.org/obo/GSSO_011188,information outbreak
+http://purl.obolibrary.org/obo/GSSO_011189,infodemic
+http://purl.obolibrary.org/obo/GSSO_011190,disinfodemic
+http://purl.obolibrary.org/obo/GSSO_011321,moral panic
+http://purl.obolibrary.org/obo/GSSO_011460,cross-dressing ball
+http://purl.obolibrary.org/obo/GSSO_011461,lesbian ball
+http://purl.obolibrary.org/obo/GSSO_011462,gay male ball
+http://purl.obolibrary.org/obo/GSSO_011900,anti-LGBTQ event
+http://purl.obolibrary.org/obo/GSSO_011901,anti-LGBTQ civil rights demonstration
+http://purl.obolibrary.org/obo/GSSO_011905,national LGBTQ march
+http://purl.obolibrary.org/obo/GSSO_011906,national LGBTQ march in the United States
+http://purl.obolibrary.org/obo/GSSO_011907,national LGBTQ march in Washington, D.C.
+http://purl.obolibrary.org/obo/GSSO_012109,prison visit
+http://purl.obolibrary.org/obo/GSSO_012110,conjugal visit
+http://purl.obolibrary.org/obo/GSSO_012141,sex festival
+http://purl.obolibrary.org/obo/GSSO_012142,fertility festival
+http://purl.obolibrary.org/obo/GSSO_012143,pornography festival
+http://purl.obolibrary.org/obo/GSSO_012144,BDSM festival
+http://purl.obolibrary.org/obo/GSSO_012382,fat misogyny
+http://purl.obolibrary.org/obo/GSSO_012530,fluid sexuality
+http://purl.obolibrary.org/obo/GSSO_012624,safer sex party
+http://purl.obolibrary.org/obo/GSSO_012625,group sex party
+http://purl.obolibrary.org/obo/GSSO_012626,serial killing
+http://purl.obolibrary.org/obo/GSSO_012702,pomosexuality
+http://purl.obolibrary.org/obo/GSSO_012817,erotic speech
+http://purl.obolibrary.org/obo/IAO_0000027,data item
+http://purl.obolibrary.org/obo/IAO_0000030,information content entity
+http://purl.obolibrary.org/obo/IAO_0000033,directive information entity
+http://purl.obolibrary.org/obo/IAO_0000078,curation status specification
+http://purl.obolibrary.org/obo/IAO_0000102,data about an ontology part
+http://purl.obolibrary.org/obo/IAO_0000225,obsolescence reason specification
+http://purl.obolibrary.org/obo/IAO_0000409,denotator type
+http://purl.obolibrary.org/obo/IAO_0000409,denotator type
+http://purl.obolibrary.org/obo/IAO_8000000,ontology module
+http://purl.obolibrary.org/obo/IAO_8000000,ontology module
+http://purl.obolibrary.org/obo/IAO_8000001,base ontology module
+http://purl.obolibrary.org/obo/IAO_8000001,base ontology module
+http://purl.obolibrary.org/obo/IAO_8000002,editors ontology module
+http://purl.obolibrary.org/obo/IAO_8000002,editors ontology module
+http://purl.obolibrary.org/obo/IAO_8000003,main release ontology module
+http://purl.obolibrary.org/obo/IAO_8000003,main release ontology module
+http://purl.obolibrary.org/obo/IAO_8000004,bridge ontology module
+http://purl.obolibrary.org/obo/IAO_8000004,bridge ontology module
+http://purl.obolibrary.org/obo/IAO_8000005,import ontology module
+http://purl.obolibrary.org/obo/IAO_8000005,import ontology module
+http://purl.obolibrary.org/obo/IAO_8000006,subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000006,subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000007,curation subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000007,curation subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000008,analysis subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000008,analysis subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000009,single layer subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000009,single layer subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000010,exclusion subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000010,exclusion subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000011,external import ontology module
+http://purl.obolibrary.org/obo/IAO_8000011,external import ontology module
+http://purl.obolibrary.org/obo/IAO_8000012,species subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000012,species subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000013,reasoned ontology module
+http://purl.obolibrary.org/obo/IAO_8000013,reasoned ontology module
+http://purl.obolibrary.org/obo/IAO_8000014,generated ontology module
+http://purl.obolibrary.org/obo/IAO_8000014,generated ontology module
+http://purl.obolibrary.org/obo/IAO_8000015,template generated ontology module
+http://purl.obolibrary.org/obo/IAO_8000015,template generated ontology module
+http://purl.obolibrary.org/obo/IAO_8000016,taxonomic bridge ontology module
+http://purl.obolibrary.org/obo/IAO_8000016,taxonomic bridge ontology module
+http://purl.obolibrary.org/obo/IAO_8000017,ontology module subsetted by expressivity
+http://purl.obolibrary.org/obo/IAO_8000017,ontology module subsetted by expressivity
+http://purl.obolibrary.org/obo/IAO_8000018,obo basic subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000018,obo basic subset ontology module
+http://purl.obolibrary.org/obo/IAO_8000019,ontology module subsetted by OWL profile
+http://purl.obolibrary.org/obo/IAO_8000019,ontology module subsetted by OWL profile
+http://purl.obolibrary.org/obo/IAO_8000020,EL++ ontology module
+http://purl.obolibrary.org/obo/IAO_8000020,EL++ ontology module
+http://purl.obolibrary.org/obo/IDO_0000504,infectious disorder
+http://purl.obolibrary.org/obo/IDO_0000586,infection
+http://purl.obolibrary.org/obo/IDO_0000630,hospital-acquired infection
+http://purl.obolibrary.org/obo/ID_0000001,Activity
+http://purl.obolibrary.org/obo/ID_0000017,Room/location
+http://purl.obolibrary.org/obo/ID_0000024,taking medication or vitamins
+http://purl.obolibrary.org/obo/ID_0000025,treating a wound
+http://purl.obolibrary.org/obo/ID_0000026,healthcare [misc]
+http://purl.obolibrary.org/obo/ID_0000027,watching tv or movies actively
+http://purl.obolibrary.org/obo/ID_0000028,watching tv in the background
+http://purl.obolibrary.org/obo/ID_0000029,listening to music or radio in the background
+http://purl.obolibrary.org/obo/ID_0000030,using a mobile phone/pda/tablet (other than talking)
+http://purl.obolibrary.org/obo/ID_0000031,using a computer
+http://purl.obolibrary.org/obo/ID_0000032,using printer/fax
+http://purl.obolibrary.org/obo/ID_0000033,information interaction [misc]
+http://purl.obolibrary.org/obo/ID_0000034,reading printed material
+http://purl.obolibrary.org/obo/ID_0000035,talking on a phone
+http://purl.obolibrary.org/obo/ID_0000036,talking to someone
+http://purl.obolibrary.org/obo/ID_0000037,writing
+http://purl.obolibrary.org/obo/ID_0000038,working on  a hobby
+http://purl.obolibrary.org/obo/ID_0000039,meditating or praying
+http://purl.obolibrary.org/obo/ID_0000040,relaxing/thinking
+http://purl.obolibrary.org/obo/ID_0000041,pet activity
+http://purl.obolibrary.org/obo/ID_0000042,singing
+http://purl.obolibrary.org/obo/ID_0000043,dancing
+http://purl.obolibrary.org/obo/ID_0000044,leisure [misc]
+http://purl.obolibrary.org/obo/ID_0000045,cooking or warming food in microwave
+http://purl.obolibrary.org/obo/ID_0000046,cooking or warming food in oven
+http://purl.obolibrary.org/obo/ID_0000047,cooking or warming food in stovetop
+http://purl.obolibrary.org/obo/ID_0000048,meal/drink preparation [misc]
+http://purl.obolibrary.org/obo/ID_0000049,preparing a snack
+http://purl.obolibrary.org/obo/ID_0000050,preparing a meal
+http://purl.obolibrary.org/obo/ID_0000051,preparing a drink
+http://purl.obolibrary.org/obo/ID_0000052,preparing a meal in the background
+http://purl.obolibrary.org/obo/ID_0000053,serving
+http://purl.obolibrary.org/obo/ID_0000054,scrubbing the floor
+http://purl.obolibrary.org/obo/ID_0000055,cleaning in the background
+http://purl.obolibrary.org/obo/ID_0000056,sweeping
+http://purl.obolibrary.org/obo/ID_0000057,mopping
+http://purl.obolibrary.org/obo/ID_0000058,putting things away
+http://purl.obolibrary.org/obo/ID_0000059,vacuuming
+http://purl.obolibrary.org/obo/ID_0000060,making the bed
+http://purl.obolibrary.org/obo/ID_0000061,cleaning [misc]
+http://purl.obolibrary.org/obo/ID_0000062,dusting
+http://purl.obolibrary.org/obo/ID_0000063,taking out trash
+http://purl.obolibrary.org/obo/ID_0000064,throwing something away
+http://purl.obolibrary.org/obo/ID_0000065,recycling
+http://purl.obolibrary.org/obo/ID_0000066,organizing
+http://purl.obolibrary.org/obo/ID_0000067,shaving
+http://purl.obolibrary.org/obo/ID_0000068,drying hair
+http://purl.obolibrary.org/obo/ID_0000069,grooming [misc]
+http://purl.obolibrary.org/obo/ID_0000070,brushing or styling hair
+http://purl.obolibrary.org/obo/ID_0000071,getting undressed
+http://purl.obolibrary.org/obo/ID_0000072,applying cosmetics
+http://purl.obolibrary.org/obo/ID_0000073,getting dressed
+http://purl.obolibrary.org/obo/ID_0000074,strength training
+http://purl.obolibrary.org/obo/ID_0000075,endurance training
+http://purl.obolibrary.org/obo/ID_0000076,flexibility training
+http://purl.obolibrary.org/obo/ID_0000077,brushing teeth
+http://purl.obolibrary.org/obo/ID_0000078,washing hands
+http://purl.obolibrary.org/obo/ID_0000079,flossing
+http://purl.obolibrary.org/obo/ID_0000080,washing face
+http://purl.obolibrary.org/obo/ID_0000081,bathing or showering
+http://purl.obolibrary.org/obo/ID_0000082,hygiene [misc]
+http://purl.obolibrary.org/obo/ID_0000083,toileting
+http://purl.obolibrary.org/obo/ID_0000084,washing machine on in the background
+http://purl.obolibrary.org/obo/ID_0000085,unloading clothes dryer
+http://purl.obolibrary.org/obo/ID_0000086,dryer on in the background
+http://purl.obolibrary.org/obo/ID_0000087,unloading the washing machine
+http://purl.obolibrary.org/obo/ID_0000088,laundry [misc]
+http://purl.obolibrary.org/obo/ID_0000089,ironing
+http://purl.obolibrary.org/obo/ID_0000090,loading the dryer
+http://purl.obolibrary.org/obo/ID_0000091,putting away laundry
+http://purl.obolibrary.org/obo/ID_0000092,loading the washing machine
+http://purl.obolibrary.org/obo/ID_0000093,preparing laundry for washing
+http://purl.obolibrary.org/obo/ID_0000094,drinking water or a beverage
+http://purl.obolibrary.org/obo/ID_0000095,eating a meal
+http://purl.obolibrary.org/obo/ID_0000096,eating a snack
+http://purl.obolibrary.org/obo/ID_0000097,eating/drinking [misc]
+http://purl.obolibrary.org/obo/ID_0000098,soaking dishes
+http://purl.obolibrary.org/obo/ID_0000099,putting away dishes
+http://purl.obolibrary.org/obo/ID_0000100,loading the dishwasher
+http://purl.obolibrary.org/obo/ID_0000101,dishwashing [misc]
+http://purl.obolibrary.org/obo/ID_0000102,hand washing or rinsing dishes
+http://purl.obolibrary.org/obo/ID_0000103,unloading the dishwasher
+http://purl.obolibrary.org/obo/ID_0000104,dishwasher on in the background
+http://purl.obolibrary.org/obo/ID_0000105,napping
+http://purl.obolibrary.org/obo/ID_0000106,waking up
+http://purl.obolibrary.org/obo/ID_0000107,getting ready to sleep
+http://purl.obolibrary.org/obo/ID_0000108,sleeping deeply
+http://purl.obolibrary.org/obo/ID_0000109,sleeping [misc]
+http://purl.obolibrary.org/obo/ID_0000110,yardwork [misc]
+http://purl.obolibrary.org/obo/ID_0000111,mowing lawn
+http://purl.obolibrary.org/obo/ID_0000112,gardening
+http://purl.obolibrary.org/obo/ID_0000113,adjusting light levels
+http://purl.obolibrary.org/obo/ID_0000114,adjusting ambient environment
+http://purl.obolibrary.org/obo/ID_0000116,moving furniture
+http://purl.obolibrary.org/obo/ID_0000117,decorating
+http://purl.obolibrary.org/obo/ID_0000118,home management [misc]
+http://purl.obolibrary.org/obo/ID_0000119,searching for an item
+http://purl.obolibrary.org/obo/ID_0000120,causing destruction
+http://purl.obolibrary.org/obo/ID_0000121,putting on/taking off sensors
+http://purl.obolibrary.org/obo/ID_0000122,docking/charging research devices
+http://purl.obolibrary.org/obo/ID_0000123,unplugging kiosk
+http://purl.obolibrary.org/obo/ID_0000124,study-related [misc]
+http://purl.obolibrary.org/obo/ID_0000125,bathroom
+http://purl.obolibrary.org/obo/ID_0000126,basement
+http://purl.obolibrary.org/obo/ID_0000127,bedroom
+http://purl.obolibrary.org/obo/ID_0000128,dining area
+http://purl.obolibrary.org/obo/ID_0000129,garage
+http://purl.obolibrary.org/obo/ID_0000130,hallway
+http://purl.obolibrary.org/obo/ID_0000131,kitchen
+http://purl.obolibrary.org/obo/ID_0000132,living room
+http://purl.obolibrary.org/obo/ID_0000133,office
+http://purl.obolibrary.org/obo/ID_0000134,out of view
+http://purl.obolibrary.org/obo/ID_0000135,outside
+http://purl.obolibrary.org/obo/ID_0000136,entering the home
+http://purl.obolibrary.org/obo/ID_0000137,leaving the home
+http://purl.obolibrary.org/obo/ID_0000157,object interaction
+http://purl.obolibrary.org/obo/ID_0000163,putting shoes on
+http://purl.obolibrary.org/obo/ID_0000164,door interaction
+http://purl.obolibrary.org/obo/ID_0000165,open door
+http://purl.obolibrary.org/obo/ID_0000166,close door
+http://purl.obolibrary.org/obo/ID_0000172,walk through doors
+http://purl.obolibrary.org/obo/ID_0000174,rehabilitation exercise
+http://purl.obolibrary.org/obo/ID_0000175,stretching
+http://purl.obolibrary.org/obo/ID_0000176,talking to yourself
+http://purl.obolibrary.org/obo/ID_0000178,verbal interaction with another
+http://purl.obolibrary.org/obo/ID_0000179,social media
+http://purl.obolibrary.org/obo/ID_0000180,video calling
+http://purl.obolibrary.org/obo/ID_0000181,sms
+http://purl.obolibrary.org/obo/ID_0000182,receive visitors
+http://purl.obolibrary.org/obo/ID_0000183,email
+http://purl.obolibrary.org/obo/ID_0000184,playing games
+http://purl.obolibrary.org/obo/ID_0000185,playing with children
+http://purl.obolibrary.org/obo/ID_0000186,playing music
+http://purl.obolibrary.org/obo/ID_0000187,knitting/sewing
+http://purl.obolibrary.org/obo/ID_0000189,physical work
+http://purl.obolibrary.org/obo/ID_0000190,intellectual
+http://purl.obolibrary.org/obo/ID_0000191,browsing the Internet
+http://purl.obolibrary.org/obo/ID_0000192,cutting nails
+http://purl.obolibrary.org/obo/ID_0000193,changing linen
+http://purl.obolibrary.org/obo/ID_0000194,cleaning windows
+http://purl.obolibrary.org/obo/ID_0000195,polishing floor
+http://purl.obolibrary.org/obo/ID_0000196,polishing furnitures
+http://purl.obolibrary.org/obo/ID_0000197,hanging laundry
+http://purl.obolibrary.org/obo/ID_0000198,water plants
+http://purl.obolibrary.org/obo/ID_0000199,putting away shopping
+http://purl.obolibrary.org/obo/ID_0000201,smoking tobacco
+http://purl.obolibrary.org/obo/ID_0000204,coughing
+http://purl.obolibrary.org/obo/ID_0000212,fall
+http://purl.obolibrary.org/obo/ID_0000213,fever/infection
+http://purl.obolibrary.org/obo/ID_0000214,sweating
+http://purl.obolibrary.org/obo/ID_0000215,shaking
+http://purl.obolibrary.org/obo/ID_0000216,taking shoes off
+http://purl.obolibrary.org/obo/ID_0000218,tap interaction
+http://purl.obolibrary.org/obo/ID_0000219,close hot tap
+http://purl.obolibrary.org/obo/ID_0000220,open hot tap
+http://purl.obolibrary.org/obo/ID_0000223,using a computer [misc]
+http://purl.obolibrary.org/obo/ID_0000224,using a mobile phone/pda/tablet [misc]
+http://purl.obolibrary.org/obo/ID_0000226,talking
+http://purl.obolibrary.org/obo/ID_0000231,loft/attic
+http://purl.obolibrary.org/obo/ID_0000232,open cold tap
+http://purl.obolibrary.org/obo/ID_0000233,close cold tap
+http://purl.obolibrary.org/obo/ID_0000234,exercising [misc]
+http://purl.obolibrary.org/obo/ID_0000237,pick up object
+http://purl.obolibrary.org/obo/ID_0000238,put object down
+http://purl.obolibrary.org/obo/ID_0000239,drying dishes
+http://purl.obolibrary.org/obo/ID_0000242,toilet
+http://purl.obolibrary.org/obo/ID_0000243,drying hands
+http://purl.obolibrary.org/obo/ID_0000244,health condition [misc]
+http://purl.obolibrary.org/obo/ID_0000245,talking [misc]
+http://purl.obolibrary.org/obo/ID_0000246,social interaction [misc]
+http://purl.obolibrary.org/obo/ID_0000247,working [misc]
+http://purl.obolibrary.org/obo/ID_0000252,unknown
+http://purl.obolibrary.org/obo/ID_0000253,window interaction
+http://purl.obolibrary.org/obo/ID_0000254,close window
+http://purl.obolibrary.org/obo/ID_0000255,open window
+http://purl.obolibrary.org/obo/ID_0000256,drinking alcohol
+http://purl.obolibrary.org/obo/ID_0000257,close tap
+http://purl.obolibrary.org/obo/ID_0000259,open tap
+http://purl.obolibrary.org/obo/ID_0000260,drop
+http://purl.obolibrary.org/obo/ID_0000261,hold/use object
+http://purl.obolibrary.org/obo/ID_0000262,fill
+http://purl.obolibrary.org/obo/ID_0000263,empty
+http://purl.obolibrary.org/obo/ID_0000264,electrical appliance
+http://purl.obolibrary.org/obo/ID_0000265,switch on
+http://purl.obolibrary.org/obo/ID_0000266,switch off
+http://purl.obolibrary.org/obo/ID_0000267,use
+http://purl.obolibrary.org/obo/ID_0000268,misc
+http://purl.obolibrary.org/obo/ID_0000269,switch light on
+http://purl.obolibrary.org/obo/ID_0000270,switch light off
+http://purl.obolibrary.org/obo/ID_0000271,cupboard interaction
+http://purl.obolibrary.org/obo/ID_0000272,cupboard open
+http://purl.obolibrary.org/obo/ID_0000273,cupboard close
+http://purl.obolibrary.org/obo/ID_0000274,draw interaction
+http://purl.obolibrary.org/obo/ID_0000275,draw open
+http://purl.obolibrary.org/obo/ID_0000276,draw close
+http://purl.obolibrary.org/obo/ID_0000281,study room
+http://purl.obolibrary.org/obo/ID_0000282,master bedroom
+http://purl.obolibrary.org/obo/ID_0000283,kids bedroom
+http://purl.obolibrary.org/obo/ID_0000284,guest bedroom
+http://purl.obolibrary.org/obo/ID_0000285,spare bedroom
+http://purl.obolibrary.org/obo/MFOEM_000001,emotion process
+http://purl.obolibrary.org/obo/MFOEM_000002,appraisal process
+http://purl.obolibrary.org/obo/MFOEM_000003,physiological process involved in an emotion
+http://purl.obolibrary.org/obo/MFOEM_000004,emotional behavioural process
+http://purl.obolibrary.org/obo/MFOEM_000005,appraisal
+http://purl.obolibrary.org/obo/MFOEM_000006,subjective affective feeling
+http://purl.obolibrary.org/obo/MFOEM_000007,emotional action tendency
+http://purl.obolibrary.org/obo/MFOEM_000009,anger
+http://purl.obolibrary.org/obo/MFOEM_000011,irritation
+http://purl.obolibrary.org/obo/MFOEM_000012,Verärgerung
+http://purl.obolibrary.org/obo/MFOEM_000012,annoyance
+http://purl.obolibrary.org/obo/MFOEM_000012,la gêne
+http://purl.obolibrary.org/obo/MFOEM_000013,Wut
+http://purl.obolibrary.org/obo/MFOEM_000013,fureur
+http://purl.obolibrary.org/obo/MFOEM_000013,fury
+http://purl.obolibrary.org/obo/MFOEM_000014,Wut
+http://purl.obolibrary.org/obo/MFOEM_000014,rage
+http://purl.obolibrary.org/obo/MFOEM_000014,rage
+http://purl.obolibrary.org/obo/MFOEM_000015,aggression
+http://purl.obolibrary.org/obo/MFOEM_000016,Trauer
+http://purl.obolibrary.org/obo/MFOEM_000016,deuil
+http://purl.obolibrary.org/obo/MFOEM_000016,grief
+http://purl.obolibrary.org/obo/MFOEM_000017,violence
+http://purl.obolibrary.org/obo/MFOEM_000018,contempt
+http://purl.obolibrary.org/obo/MFOEM_000019,disgust
+http://purl.obolibrary.org/obo/MFOEM_000020,core disgust
+http://purl.obolibrary.org/obo/MFOEM_000021,animal-nature disgust
+http://purl.obolibrary.org/obo/MFOEM_000022,interpersonal disgust
+http://purl.obolibrary.org/obo/MFOEM_000023,moral disgust
+http://purl.obolibrary.org/obo/MFOEM_000024,hate
+http://purl.obolibrary.org/obo/MFOEM_000025,jealousy
+http://purl.obolibrary.org/obo/MFOEM_000026,fear
+http://purl.obolibrary.org/obo/MFOEM_000027,Terror
+http://purl.obolibrary.org/obo/MFOEM_000027,la terreur
+http://purl.obolibrary.org/obo/MFOEM_000027,terror
+http://purl.obolibrary.org/obo/MFOEM_000028,anxiety
+http://purl.obolibrary.org/obo/MFOEM_000029,stress (emotion)
+http://purl.obolibrary.org/obo/MFOEM_000030,despair
+http://purl.obolibrary.org/obo/MFOEM_000031,crying
+http://purl.obolibrary.org/obo/MFOEM_000032,surprise
+http://purl.obolibrary.org/obo/MFOEM_000033,interest
+http://purl.obolibrary.org/obo/MFOEM_000034,joy
+http://purl.obolibrary.org/obo/MFOEM_000035,pleasure (emotion)
+http://purl.obolibrary.org/obo/MFOEM_000036,sensory pleasure
+http://purl.obolibrary.org/obo/MFOEM_000037,mastery pleasure
+http://purl.obolibrary.org/obo/MFOEM_000038,social pleasure
+http://purl.obolibrary.org/obo/MFOEM_000039,aesthetic pleasure
+http://purl.obolibrary.org/obo/MFOEM_000040,sexual pleasure
+http://purl.obolibrary.org/obo/MFOEM_000041,pride
+http://purl.obolibrary.org/obo/MFOEM_000042,happiness
+http://purl.obolibrary.org/obo/MFOEM_000043,Gelassenheit
+http://purl.obolibrary.org/obo/MFOEM_000043,serenity
+http://purl.obolibrary.org/obo/MFOEM_000043,sérénité
+http://purl.obolibrary.org/obo/MFOEM_000044,Spaß
+http://purl.obolibrary.org/obo/MFOEM_000044,amusement
+http://purl.obolibrary.org/obo/MFOEM_000044,divertissement
+http://purl.obolibrary.org/obo/MFOEM_000045,Hochgefühl
+http://purl.obolibrary.org/obo/MFOEM_000045,elation
+http://purl.obolibrary.org/obo/MFOEM_000045,elation
+http://purl.obolibrary.org/obo/MFOEM_000046,Euphorie
+http://purl.obolibrary.org/obo/MFOEM_000046,euphoria
+http://purl.obolibrary.org/obo/MFOEM_000046,l'euphorie
+http://purl.obolibrary.org/obo/MFOEM_000047,contentment
+http://purl.obolibrary.org/obo/MFOEM_000048,love
+http://purl.obolibrary.org/obo/MFOEM_000049,companionate love
+http://purl.obolibrary.org/obo/MFOEM_000050,passionate love
+http://purl.obolibrary.org/obo/MFOEM_000051,disappointment
+http://purl.obolibrary.org/obo/MFOEM_000052,compassion
+http://purl.obolibrary.org/obo/MFOEM_000053,guilt
+http://purl.obolibrary.org/obo/MFOEM_000054,Verlegenheit
+http://purl.obolibrary.org/obo/MFOEM_000054,embarrassment
+http://purl.obolibrary.org/obo/MFOEM_000054,l'embarras
+http://purl.obolibrary.org/obo/MFOEM_000055,shame
+http://purl.obolibrary.org/obo/MFOEM_000056,sadness
+http://purl.obolibrary.org/obo/MFOEM_000057,appraisal of suddenness
+http://purl.obolibrary.org/obo/MFOEM_000058,appraisal of familiarity
+http://purl.obolibrary.org/obo/MFOEM_000059,appraisal of predictability
+http://purl.obolibrary.org/obo/MFOEM_000060,appraisal of expectedness
+http://purl.obolibrary.org/obo/MFOEM_000061,appraisal of pleasantness
+http://purl.obolibrary.org/obo/MFOEM_000062,appraisal as sudden
+http://purl.obolibrary.org/obo/MFOEM_000063,appraisal as not sudden
+http://purl.obolibrary.org/obo/MFOEM_000064,appraisal as familiar
+http://purl.obolibrary.org/obo/MFOEM_000065,appraisal as not familiar
+http://purl.obolibrary.org/obo/MFOEM_000066,appraisal as predictable
+http://purl.obolibrary.org/obo/MFOEM_000067,appraisal as not predictable
+http://purl.obolibrary.org/obo/MFOEM_000068,appraisal as expected
+http://purl.obolibrary.org/obo/MFOEM_000069,appraisal as not expected
+http://purl.obolibrary.org/obo/MFOEM_000070,appraisal as pleasant
+http://purl.obolibrary.org/obo/MFOEM_000071,appraisal as unpleasant
+http://purl.obolibrary.org/obo/MFOEM_000072,appraisal of goal importance
+http://purl.obolibrary.org/obo/MFOEM_000073,evaluation as important to goals
+http://purl.obolibrary.org/obo/MFOEM_000074,evaluation as not important to goals
+http://purl.obolibrary.org/obo/MFOEM_000075,appraisal of causal agency
+http://purl.obolibrary.org/obo/MFOEM_000076,appraisal as caused by self
+http://purl.obolibrary.org/obo/MFOEM_000077,appraisal as caused by chance
+http://purl.obolibrary.org/obo/MFOEM_000078,appraisal as caused by an other
+http://purl.obolibrary.org/obo/MFOEM_000079,feeling good
+http://purl.obolibrary.org/obo/MFOEM_000080,feeling tired
+http://purl.obolibrary.org/obo/MFOEM_000081,appraisal as caused supernaturally
+http://purl.obolibrary.org/obo/MFOEM_000082,appraisal of causal intent
+http://purl.obolibrary.org/obo/MFOEM_000083,appraisal as deliberate
+http://purl.obolibrary.org/obo/MFOEM_000084,appraisal as unintended
+http://purl.obolibrary.org/obo/MFOEM_000085,appraisal of desirability of consequences
+http://purl.obolibrary.org/obo/MFOEM_000086,appraisal as desirable consequences
+http://purl.obolibrary.org/obo/MFOEM_000087,appraisal as undesirable consequences
+http://purl.obolibrary.org/obo/MFOEM_000088,appraisal of urgency of response
+http://purl.obolibrary.org/obo/MFOEM_000089,appraisal as urgent response
+http://purl.obolibrary.org/obo/MFOEM_000090,appraisal as not urgent response
+http://purl.obolibrary.org/obo/MFOEM_000091,appraisal of avoidability of consequences
+http://purl.obolibrary.org/obo/MFOEM_000092,appraisal as avoidable consequences
+http://purl.obolibrary.org/obo/MFOEM_000093,appraisal as unavoidable consequences
+http://purl.obolibrary.org/obo/MFOEM_000094,appraisal of congruence with ideals
+http://purl.obolibrary.org/obo/MFOEM_000095,appraisal as congruent with ideals
+http://purl.obolibrary.org/obo/MFOEM_000096,appraisal as not congruent with ideals
+http://purl.obolibrary.org/obo/MFOEM_000097,appraisal of social attention
+http://purl.obolibrary.org/obo/MFOEM_000098,appraisal as being at the centre of attention
+http://purl.obolibrary.org/obo/MFOEM_000099,appraisal as not being at the centre of attention
+http://purl.obolibrary.org/obo/MFOEM_000100,appraisal of justice of treatment
+http://purl.obolibrary.org/obo/MFOEM_000101,appraisal as just treatment
+http://purl.obolibrary.org/obo/MFOEM_000102,appraisal as unjust treatment
+http://purl.obolibrary.org/obo/MFOEM_000103,appraisal of dangerousness
+http://purl.obolibrary.org/obo/MFOEM_000104,appraisal as dangerous
+http://purl.obolibrary.org/obo/MFOEM_000105,appraisal as not dangerous
+http://purl.obolibrary.org/obo/MFOEM_000106,appraisal of loss
+http://purl.obolibrary.org/obo/MFOEM_000107,feeling at ease
+http://purl.obolibrary.org/obo/MFOEM_000108,feeling bad
+http://purl.obolibrary.org/obo/MFOEM_000109,feeling energetic
+http://purl.obolibrary.org/obo/MFOEM_000110,feeling in control
+http://purl.obolibrary.org/obo/MFOEM_000111,feeling restless
+http://purl.obolibrary.org/obo/MFOEM_000112,feeling exhausted
+http://purl.obolibrary.org/obo/MFOEM_000113,shivering
+http://purl.obolibrary.org/obo/MFOEM_000114,feeling calm
+http://purl.obolibrary.org/obo/MFOEM_000115,limb weakening
+http://purl.obolibrary.org/obo/MFOEM_000116,feeling out of control
+http://purl.obolibrary.org/obo/MFOEM_000117,becoming pale
+http://purl.obolibrary.org/obo/MFOEM_000118,feeling strong
+http://purl.obolibrary.org/obo/MFOEM_000119,feeling weak
+http://purl.obolibrary.org/obo/MFOEM_000120,experiencing a lump in the throat
+http://purl.obolibrary.org/obo/MFOEM_000121,feeling alert
+http://purl.obolibrary.org/obo/MFOEM_000122,experiencing discomfort in the stomach
+http://purl.obolibrary.org/obo/MFOEM_000123,heart beating at slower rate
+http://purl.obolibrary.org/obo/MFOEM_000124,feeling nervous
+http://purl.obolibrary.org/obo/MFOEM_000125,facial expression behaviour
+http://purl.obolibrary.org/obo/MFOEM_000126,smiling
+http://purl.obolibrary.org/obo/MFOEM_000127,jaw dropping
+http://purl.obolibrary.org/obo/MFOEM_000128,pressing lips together
+http://purl.obolibrary.org/obo/MFOEM_000129,raising eyebrows
+http://purl.obolibrary.org/obo/MFOEM_000130,frowning
+http://purl.obolibrary.org/obo/MFOEM_000131,closing eyes
+http://purl.obolibrary.org/obo/MFOEM_000132,opening eyes widely
+http://purl.obolibrary.org/obo/MFOEM_000133,neutral expression
+http://purl.obolibrary.org/obo/MFOEM_000134,emotional bodily movement behaviour
+http://purl.obolibrary.org/obo/MFOEM_000135,moving abruptly
+http://purl.obolibrary.org/obo/MFOEM_000136,moving towards people
+http://purl.obolibrary.org/obo/MFOEM_000137,moving away from people
+http://purl.obolibrary.org/obo/MFOEM_000138,staying still
+http://purl.obolibrary.org/obo/MFOEM_000139,heart beating at faster rate
+http://purl.obolibrary.org/obo/MFOEM_000140,muscles relaxing
+http://purl.obolibrary.org/obo/MFOEM_000141,muscles becoming tense
+http://purl.obolibrary.org/obo/MFOEM_000142,breathing at a more rapid rate
+http://purl.obolibrary.org/obo/MFOEM_000143,breathing at a slower rate
+http://purl.obolibrary.org/obo/MFOEM_000144,temperature rising (experienced as feeling warm)
+http://purl.obolibrary.org/obo/MFOEM_000145,perspiring
+http://purl.obolibrary.org/obo/MFOEM_000146,perspiring (hands)
+http://purl.obolibrary.org/obo/MFOEM_000147,perspiring (whole body)
+http://purl.obolibrary.org/obo/MFOEM_000148,experiencing heat in cheeks or chest
+http://purl.obolibrary.org/obo/MFOEM_000149,experiencing warm sensation in whole body
+http://purl.obolibrary.org/obo/MFOEM_000150,blushing
+http://purl.obolibrary.org/obo/MFOEM_000151,temperature falling (experienced as feeling cold)
+http://purl.obolibrary.org/obo/MFOEM_000152,emotional speaking behaviour
+http://purl.obolibrary.org/obo/MFOEM_000153,speaking loudly
+http://purl.obolibrary.org/obo/MFOEM_000154,speaking softly
+http://purl.obolibrary.org/obo/MFOEM_000155,speaking with trembling voice
+http://purl.obolibrary.org/obo/MFOEM_000156,speaking assertively
+http://purl.obolibrary.org/obo/MFOEM_000157,not speaking
+http://purl.obolibrary.org/obo/MFOEM_000158,speaking a short utterance
+http://purl.obolibrary.org/obo/MFOEM_000159,speaking a long utterance
+http://purl.obolibrary.org/obo/MFOEM_000160,speaking with altered speech melody
+http://purl.obolibrary.org/obo/MFOEM_000161,speaking in a disturbed fashion
+http://purl.obolibrary.org/obo/MFOEM_000162,speaking at a faster rate
+http://purl.obolibrary.org/obo/MFOEM_000163,speaking at a slower rate
+http://purl.obolibrary.org/obo/MFOEM_000164,Panik
+http://purl.obolibrary.org/obo/MFOEM_000164,panic
+http://purl.obolibrary.org/obo/MFOEM_000164,panique
+http://purl.obolibrary.org/obo/MFOEM_000166,Langeweile
+http://purl.obolibrary.org/obo/MFOEM_000166,boredom
+http://purl.obolibrary.org/obo/MFOEM_000166,l'ennui
+http://purl.obolibrary.org/obo/MFOEM_000167,curieux
+http://purl.obolibrary.org/obo/MFOEM_000167,curiosity
+http://purl.obolibrary.org/obo/MFOEM_000167,neugierig
+http://purl.obolibrary.org/obo/MFOEM_000168,betreffen
+http://purl.obolibrary.org/obo/MFOEM_000168,concern
+http://purl.obolibrary.org/obo/MFOEM_000168,concernent
+http://purl.obolibrary.org/obo/MFOEM_000169,satisfaction
+http://purl.obolibrary.org/obo/MFOEM_000170,dubious
+http://purl.obolibrary.org/obo/MFOEM_000170,zweifelhaft
+http://purl.obolibrary.org/obo/MFOEM_000171,Sorgen
+http://purl.obolibrary.org/obo/MFOEM_000171,s'inquiéter
+http://purl.obolibrary.org/obo/MFOEM_000171,worry
+http://purl.obolibrary.org/obo/MFOEM_000172,canonical angry facial expression
+http://purl.obolibrary.org/obo/MFOEM_000173,Verwirrung
+http://purl.obolibrary.org/obo/MFOEM_000173,confusion
+http://purl.obolibrary.org/obo/MFOEM_000173,confusion
+http://purl.obolibrary.org/obo/MFOEM_000174,canonical emotional facial expression
+http://purl.obolibrary.org/obo/MFOEM_000175,Erwartung
+http://purl.obolibrary.org/obo/MFOEM_000175,anticipation
+http://purl.obolibrary.org/obo/MFOEM_000175,expectant
+http://purl.obolibrary.org/obo/MFOEM_000176,canonical fearful facial expression
+http://purl.obolibrary.org/obo/MFOEM_000177,Hoffnung
+http://purl.obolibrary.org/obo/MFOEM_000177,espoir
+http://purl.obolibrary.org/obo/MFOEM_000177,hope
+http://purl.obolibrary.org/obo/MFOEM_000178,Inspiration
+http://purl.obolibrary.org/obo/MFOEM_000178,inspiration
+http://purl.obolibrary.org/obo/MFOEM_000178,inspiration (emotion)
+http://purl.obolibrary.org/obo/MFOEM_000179,schadenfreude
+http://purl.obolibrary.org/obo/MFOEM_000180,canonical happy facial expression
+http://purl.obolibrary.org/obo/MFOEM_000181,canonical disgusted facial expression
+http://purl.obolibrary.org/obo/MFOEM_000182,canonical sad facial expression
+http://purl.obolibrary.org/obo/MFOEM_000183,canonical emotional voice utterances
+http://purl.obolibrary.org/obo/MFOEM_000184,canonical angry voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000185,canonical fearful voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000186,canonical disgusted voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000187,canonical happy voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000188,canonical sad voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000189,canonical surprised voice utterance
+http://purl.obolibrary.org/obo/MFOEM_000190,canonical surprised facial expression
+http://purl.obolibrary.org/obo/MFOEM_000191,appraisal as being disliked
+http://purl.obolibrary.org/obo/MFOEM_000192,appraisal as being liked
+http://purl.obolibrary.org/obo/MFOEM_000193,mood process
+http://purl.obolibrary.org/obo/MFOEM_000195,affective process
+http://purl.obolibrary.org/obo/MFOEM_000196,anxious mood
+http://purl.obolibrary.org/obo/MFOEM_000197,irritable mood
+http://purl.obolibrary.org/obo/MFOEM_000198,cheerful mood
+http://purl.obolibrary.org/obo/MFOEM_000199,emotion disposition
+http://purl.obolibrary.org/obo/MFOEM_000200,Begeisterung
+http://purl.obolibrary.org/obo/MFOEM_000200,enthousiasme
+http://purl.obolibrary.org/obo/MFOEM_000200,enthusiasm
+http://purl.obolibrary.org/obo/MFOEM_000201,merry mood
+http://purl.obolibrary.org/obo/MFOEM_000203,feeling of pain
+http://purl.obolibrary.org/obo/MFOEM_000204,emotional personality trait
+http://purl.obolibrary.org/obo/MFOEM_000205,feeling of hunger
+http://purl.obolibrary.org/obo/MFOEM_000206,feeling of thirst
+http://purl.obolibrary.org/obo/MFOEM_000209,positive surprise
+http://purl.obolibrary.org/obo/MFOEM_000210,negative surprise
+http://purl.obolibrary.org/obo/MFOEM_000211,positive emotion
+http://purl.obolibrary.org/obo/MFOEM_000212,negative emotion
+http://purl.obolibrary.org/obo/MFOEM_000214,physical pleasure
+http://purl.obolibrary.org/obo/MFOEM_000215,feeling ticklish
+http://purl.obolibrary.org/obo/MFOEM_000216,gloomy mood
+http://purl.obolibrary.org/obo/MFOEM_000217,regret
+http://purl.obolibrary.org/obo/MFOEM_000218,Genuss
+http://purl.obolibrary.org/obo/MFOEM_000218,enjoyment
+http://purl.obolibrary.org/obo/MFOEM_000218,jouissance
+http://purl.obolibrary.org/obo/MFOEM_000219,excited mood
+http://purl.obolibrary.org/obo/MFOEM_000220,feeling of desire
+http://purl.obolibrary.org/obo/MFOEM_000221,feeling of want
+http://purl.obolibrary.org/obo/MFOEM_000222,feeling of need
+http://purl.obolibrary.org/obo/MFOEM_000223,feeling of urge
+http://purl.obolibrary.org/obo/MFOMD_0000001,mental disease
+http://purl.obolibrary.org/obo/MFOMD_0000002,internet addiction
+http://purl.obolibrary.org/obo/MFOMD_0000003,internet gaming addiction
+http://purl.obolibrary.org/obo/MFOMD_0000004,mental disorder
+http://purl.obolibrary.org/obo/MFOMD_0000005,facebook addiction
+http://purl.obolibrary.org/obo/MFOMD_0000020,disorganized schizophrenia
+http://purl.obolibrary.org/obo/MFOMD_0000021,catatonic schizophrenia
+http://purl.obolibrary.org/obo/MFOMD_0000022,undifferentiated schizophrenia
+http://purl.obolibrary.org/obo/MFOMD_0000023,residual schizophrenia
+http://purl.obolibrary.org/obo/MFOMD_0000024,pathological mental process
+http://purl.obolibrary.org/obo/MFOMD_0000025,mental disease course
+http://purl.obolibrary.org/obo/MFOMD_0000046,addiction disorder
+http://purl.obolibrary.org/obo/MFOMD_0000053,process addiction
+http://purl.obolibrary.org/obo/MFOMD_0000054,gambling addiction
+http://purl.obolibrary.org/obo/MFOMD_0000055,sex addiction
+http://purl.obolibrary.org/obo/MFOMD_0000057,shopping addiction
+http://purl.obolibrary.org/obo/MFOMD_0000063,addiction to use of a sunbed
+http://purl.obolibrary.org/obo/MFOMD_0000081,sexual desire disorder
+http://purl.obolibrary.org/obo/MFOMD_0000082,sexual arousal disorder
+http://purl.obolibrary.org/obo/MFOMD_0000083,orgasmic disorder
+http://purl.obolibrary.org/obo/MFOMD_0000084,sexual pain disorder
+http://purl.obolibrary.org/obo/MFOMD_0000095,brief psychotic disorder
+http://purl.obolibrary.org/obo/MFOMD_0000096,shared psychotic disorder
+http://purl.obolibrary.org/obo/MFOMD_0000097,psychotic disorder due to a general medical condition
+http://purl.obolibrary.org/obo/MFOMD_0000107,compulsion
+http://purl.obolibrary.org/obo/MFOMD_0000109,obsession
+http://purl.obolibrary.org/obo/MFOMD_0000153,caffeine intoxication
+http://purl.obolibrary.org/obo/MFOMD_0000189,premenstrual dysphoric disorder
+http://purl.obolibrary.org/obo/MFOMD_0000195,substance-induced sexual dysfunction
+http://purl.obolibrary.org/obo/MFOMD_0000197,substance-induced anxiety disorder
+http://purl.obolibrary.org/obo/MF_0000000,mental functioning related anatomical structure
+http://purl.obolibrary.org/obo/MF_0000001,disposition to be agent of mental process
+http://purl.obolibrary.org/obo/MF_0000002,remembering
+http://purl.obolibrary.org/obo/MF_0000003,alertness
+http://purl.obolibrary.org/obo/MF_0000004,mental counting
+http://purl.obolibrary.org/obo/MF_0000005,mental calculation
+http://purl.obolibrary.org/obo/MF_0000006,judging
+http://purl.obolibrary.org/obo/MF_0000007,determining gender
+http://purl.obolibrary.org/obo/MF_0000008,cognitive process
+http://purl.obolibrary.org/obo/MF_0000009,determining orientation
+http://purl.obolibrary.org/obo/MF_0000010,mathematical problem solving behavior
+http://purl.obolibrary.org/obo/MF_0000011,visual problem solving behavior
+http://purl.obolibrary.org/obo/MF_0000012,arousal
+http://purl.obolibrary.org/obo/MF_0000013,thinking
+http://purl.obolibrary.org/obo/MF_0000014,language problem solving behavior
+http://purl.obolibrary.org/obo/MF_0000015,imagination
+http://purl.obolibrary.org/obo/MF_0000016,human being
+http://purl.obolibrary.org/obo/MF_0000018,attending
+http://purl.obolibrary.org/obo/MF_0000019,perception
+http://purl.obolibrary.org/obo/MF_0000020,mental process
+http://purl.obolibrary.org/obo/MF_0000021,interpersonal process
+http://purl.obolibrary.org/obo/MF_0000021,interpersonal process
+http://purl.obolibrary.org/obo/MF_0000022,agreeableness
+http://purl.obolibrary.org/obo/MF_0000023,interpersonal behavior
+http://purl.obolibrary.org/obo/MF_0000024,seeing
+http://purl.obolibrary.org/obo/MF_0000025,intelligence
+http://purl.obolibrary.org/obo/MF_0000026,introversion
+http://purl.obolibrary.org/obo/MF_0000027,planning
+http://purl.obolibrary.org/obo/MF_0000028,conscientiousness
+http://purl.obolibrary.org/obo/MF_0000029,irascibility
+http://purl.obolibrary.org/obo/MF_0000030,representation
+http://purl.obolibrary.org/obo/MF_0000031,cognitive representation
+http://purl.obolibrary.org/obo/MF_0000032,bodily disposition
+http://purl.obolibrary.org/obo/MF_0000033,mental disposition
+http://purl.obolibrary.org/obo/MF_0000038,hearing
+http://purl.obolibrary.org/obo/MF_0000039,affective representation
+http://purl.obolibrary.org/obo/MF_0000040,communication
+http://purl.obolibrary.org/obo/MF_0000041,belief
+http://purl.obolibrary.org/obo/MF_0000042,preference
+http://purl.obolibrary.org/obo/MF_0000043,capability
+http://purl.obolibrary.org/obo/MF_0000044,musical capability
+http://purl.obolibrary.org/obo/MF_0000045,wanting
+http://purl.obolibrary.org/obo/MF_0000046,capability to play piano
+http://purl.obolibrary.org/obo/MF_0000047,capability to play violin
+http://purl.obolibrary.org/obo/MF_0000048,mental capability
+http://purl.obolibrary.org/obo/MF_0000049,capability to read
+http://purl.obolibrary.org/obo/MF_0000050,linguistic capability
+http://purl.obolibrary.org/obo/MF_0000051,capability to understand language
+http://purl.obolibrary.org/obo/MF_0000052,capability to speak
+http://purl.obolibrary.org/obo/MF_0000053,capability to read music
+http://purl.obolibrary.org/obo/MF_0000054,tasting
+http://purl.obolibrary.org/obo/MF_0000055,smelling
+http://purl.obolibrary.org/obo/MF_0000056,touching
+http://purl.obolibrary.org/obo/MF_0000057,thinking with language
+http://purl.obolibrary.org/obo/MF_0000058,attachment
+http://purl.obolibrary.org/obo/MF_0000059,daydreaming
+http://purl.obolibrary.org/obo/MF_0000060,vigilance
+http://purl.obolibrary.org/obo/MF_0000061,orgasm
+http://purl.obolibrary.org/obo/MF_0000062,libido
+http://purl.obolibrary.org/obo/MF_0000063,extraversion
+http://purl.obolibrary.org/obo/MF_0000064,neuroticism
+http://purl.obolibrary.org/obo/MF_0000065,openness to experience
+http://purl.obolibrary.org/obo/MF_0000068,proprioception
+http://purl.obolibrary.org/obo/MF_0000069,nociception
+http://purl.obolibrary.org/obo/MF_0000070,a memory
+http://purl.obolibrary.org/obo/MF_0000071,problem solving behaviour
+http://purl.obolibrary.org/obo/MF_0000073,intentionality
+http://purl.obolibrary.org/obo/MF_0000074,bodily quality
+http://purl.obolibrary.org/obo/MF_0000075,mental quality
+http://purl.obolibrary.org/obo/MF_0000076,intentional modality
+http://purl.obolibrary.org/obo/MF_0000080,time intentional modality
+http://purl.obolibrary.org/obo/MF_0000081,protention
+http://purl.obolibrary.org/obo/MF_0000082,retention
+http://purl.obolibrary.org/obo/MF_0000083,mental imagery
+http://purl.obolibrary.org/obo/MF_0000084,spoken communication
+http://purl.obolibrary.org/obo/MF_0000085,written communication
+http://purl.obolibrary.org/obo/MF_0000086,linguistic communication
+http://purl.obolibrary.org/obo/MF_0000087,gestural communication
+http://purl.obolibrary.org/obo/MF_0000088,subliminal process
+http://purl.obolibrary.org/obo/MF_0000089,non-linguistic communication
+http://purl.obolibrary.org/obo/MF_0000090,sign-language communication
+http://purl.obolibrary.org/obo/MF_0000091,facial expression communication
+http://purl.obolibrary.org/obo/MF_0000202,personality
+http://purl.obolibrary.org/obo/MF_0000203,personality trait
+http://purl.obolibrary.org/obo/NBO_0000159,rapid eye movement sleep
+http://purl.obolibrary.org/obo/NBO_0000161,non-rapid eye movement sleep behavior
+http://purl.obolibrary.org/obo/NBO_0000166,circadian rhythm
+http://purl.obolibrary.org/obo/NBO_0000167,circadian period
+http://purl.obolibrary.org/obo/NBO_0000168,circadian persistence
+http://purl.obolibrary.org/obo/NBO_0000169,circadian phase
+http://purl.obolibrary.org/obo/NBO_0000536,circadian regulation of heart rate
+http://purl.obolibrary.org/obo/NBO_0000537,circadian regulation of systemic arterial blood pressure
+http://purl.obolibrary.org/obo/NBO_0000538,circadian temperature homeostasis
+http://purl.obolibrary.org/obo/NBO_0000634,irritable aggressive behavior
+http://purl.obolibrary.org/obo/NBO_0020040,chase prey
+http://purl.obolibrary.org/obo/NBO_0020045,flush prey
+http://purl.obolibrary.org/obo/NBO_0020137,construct capturing device
+http://purl.obolibrary.org/obo/NBO_0020160,stalk prey
+http://purl.obolibrary.org/obo/NBO_0020292,capturing behaviour
+http://purl.obolibrary.org/obo/NBO_0020293,capturing prey
+http://purl.obolibrary.org/obo/NCIT_C154689,sexual contact
+http://purl.obolibrary.org/obo/NCIT_C16452,communication
+http://purl.obolibrary.org/obo/NCIT_C16840,mental process
+http://purl.obolibrary.org/obo/NCIT_C17453,conference
+http://purl.obolibrary.org/obo/NCIT_C17465,personal communication
+http://purl.obolibrary.org/obo/NCIT_C17708,physical activity
+http://purl.obolibrary.org/obo/NCIT_C19988,organismal process
+http://purl.obolibrary.org/obo/NCIT_C25506,factor
+http://purl.obolibrary.org/obo/NCIT_C25716,visit
+http://purl.obolibrary.org/obo/NCIT_C25745,failure
+http://purl.obolibrary.org/obo/NCIT_C38025,speech
+http://purl.obolibrary.org/obo/NCIT_C43431,activity
+http://purl.obolibrary.org/obo/NCIT_C62143,encounter
+http://purl.obolibrary.org/obo/OBI_0000011,planned process
+http://purl.obolibrary.org/obo/OBI_0000278,disease stage
+http://purl.obolibrary.org/obo/OGMS_0000014,clinical finding
+http://purl.obolibrary.org/obo/OGMS_0000015,clinical history
+http://purl.obolibrary.org/obo/OGMS_0000016,clinical picture
+http://purl.obolibrary.org/obo/OGMS_0000017,image finding
+http://purl.obolibrary.org/obo/OGMS_0000018,laboratory finding
+http://purl.obolibrary.org/obo/OGMS_0000019,preclinical finding
+http://purl.obolibrary.org/obo/OGMS_0000020,symptom
+http://purl.obolibrary.org/obo/OGMS_0000022,manifestation of a disease
+http://purl.obolibrary.org/obo/OGMS_0000023,phenotype
+http://purl.obolibrary.org/obo/OGMS_0000025,clinical manifestation of a disease
+http://purl.obolibrary.org/obo/OGMS_0000026,preclinical manifestation of a disease
+http://purl.obolibrary.org/obo/OGMS_0000027,clinical phenotype
+http://purl.obolibrary.org/obo/OGMS_0000028,disease phenotype
+http://purl.obolibrary.org/obo/OGMS_0000029,vital sign
+http://purl.obolibrary.org/obo/OGMS_0000030,predisposition to disease of type X
+http://purl.obolibrary.org/obo/OGMS_0000031,disease
+http://purl.obolibrary.org/obo/OGMS_0000032,homeostasis
+http://purl.obolibrary.org/obo/OGMS_0000033,genetic predisposition to disease of type X
+http://purl.obolibrary.org/obo/OGMS_0000034,acquired genetic disease
+http://purl.obolibrary.org/obo/OGMS_0000035,constitutional genetic disease
+http://purl.obolibrary.org/obo/OGMS_0000037,abnormal homeostasis
+http://purl.obolibrary.org/obo/OGMS_0000038,normal homeostasis
+http://purl.obolibrary.org/obo/OGMS_0000039,configuration
+http://purl.obolibrary.org/obo/OGMS_0000040,pathological physical configuration
+http://purl.obolibrary.org/obo/OGMS_0000045,disorder
+http://purl.obolibrary.org/obo/OGMS_0000046,epigenetic disorder
+http://purl.obolibrary.org/obo/OGMS_0000047,genetic disorder
+http://purl.obolibrary.org/obo/OGMS_0000050,acquired genetic disorder
+http://purl.obolibrary.org/obo/OGMS_0000051,constitutional genetic disorder
+http://purl.obolibrary.org/obo/OGMS_0000055,clinical history taking
+http://purl.obolibrary.org/obo/OGMS_0000056,clinical laboratory test
+http://purl.obolibrary.org/obo/OGMS_0000057,physical examination
+http://purl.obolibrary.org/obo/OGMS_0000059,etiological process
+http://purl.obolibrary.org/obo/OGMS_0000060,bodily process
+http://purl.obolibrary.org/obo/OGMS_0000061,pathological bodily process
+http://purl.obolibrary.org/obo/OGMS_0000063,disease course
+http://purl.obolibrary.org/obo/OGMS_0000064,chronic disease course
+http://purl.obolibrary.org/obo/OGMS_0000065,progressive disease course
+http://purl.obolibrary.org/obo/OGMS_0000066,transient disease course
+http://purl.obolibrary.org/obo/OGMS_0000067,_undefined primitive term
+http://purl.obolibrary.org/obo/OGMS_0000069,clinically abnormal
+http://purl.obolibrary.org/obo/OGMS_0000070,physical basis
+http://purl.obolibrary.org/obo/OGMS_0000071,realization
+http://purl.obolibrary.org/obo/OGMS_0000073,diagnosis
+http://purl.obolibrary.org/obo/OGMS_0000074,normal value
+http://purl.obolibrary.org/obo/OGMS_0000077,pathological formation
+http://purl.obolibrary.org/obo/OGMS_0000078,pathological anatomical structure
+http://purl.obolibrary.org/obo/OGMS_0000079,portion of pathological body substance
+http://purl.obolibrary.org/obo/OGMS_0000080,pathological transformation
+http://purl.obolibrary.org/obo/OGMS_0000081,pathological derivation
+http://purl.obolibrary.org/obo/OGMS_0000082,pathological invasion
+http://purl.obolibrary.org/obo/OGMS_0000083,physical examination finding
+http://purl.obolibrary.org/obo/OGMS_0000084,organism population
+http://purl.obolibrary.org/obo/OGMS_0000085,pain
+http://purl.obolibrary.org/obo/OGMS_0000086,syndrome
+http://purl.obolibrary.org/obo/OGMS_0000087,extended organism
+http://purl.obolibrary.org/obo/OGMS_0000088,patient symptom report
+http://purl.obolibrary.org/obo/OGMS_0000089,congenital disorder
+http://purl.obolibrary.org/obo/OGMS_0000090,treatment
+http://purl.obolibrary.org/obo/OGMS_0000091,convalescence
+http://purl.obolibrary.org/obo/OGMS_0000092,life course
+http://purl.obolibrary.org/obo/OGMS_0000093,prognosis
+http://purl.obolibrary.org/obo/OGMS_0000094,acute disease course
+http://purl.obolibrary.org/obo/OGMS_0000095,inflammatory process
+http://purl.obolibrary.org/obo/OGMS_0000096,health care process
+http://purl.obolibrary.org/obo/OGMS_0000097,health care encounter
+http://purl.obolibrary.org/obo/OGMS_0000098,hospitalization
+http://purl.obolibrary.org/obo/OGMS_0000099,outpatient encounter
+http://purl.obolibrary.org/obo/OGMS_0000100,inpatient encounter
+http://purl.obolibrary.org/obo/OGMS_0000101,emergency department encounter
+http://purl.obolibrary.org/obo/OGMS_0000102,injury
+http://purl.obolibrary.org/obo/OGMS_0000103,disease prophylaxis
+http://purl.obolibrary.org/obo/OGMS_0000104,diagnostic process
+http://purl.obolibrary.org/obo/OGMS_0000105,relapse
+http://purl.obolibrary.org/obo/OGMS_0000106,remission
+http://purl.obolibrary.org/obo/OGMS_0000107,ancillary health care process
+http://purl.obolibrary.org/obo/OGMS_0000108,health care process assay
+http://purl.obolibrary.org/obo/OGMS_0000109,health care process biomaterial transformation
+http://purl.obolibrary.org/obo/OGMS_0000110,health care process data transformation
+http://purl.obolibrary.org/obo/OGMS_0000111,prophylactic treatment
+http://purl.obolibrary.org/obo/OGMS_0000112,therapeutic procedure
+http://purl.obolibrary.org/obo/OGMS_0000113,chemotherapy procedure
+http://purl.obolibrary.org/obo/OGMS_0000114,immunotherapy procedure
+http://purl.obolibrary.org/obo/OGMS_0000115,physical therapy procedure
+http://purl.obolibrary.org/obo/OGMS_0000116,radiation therapy procedure
+http://purl.obolibrary.org/obo/OGMS_0000117,asymptomatic
+http://purl.obolibrary.org/obo/OGMS_0000118,onset
+http://purl.obolibrary.org/obo/OGMS_0000119,acute onset
+http://purl.obolibrary.org/obo/OGMS_0000120,complete remission
+http://purl.obolibrary.org/obo/OGMS_0000121,partial remission
+http://purl.obolibrary.org/obo/OGMS_0000122,recovered from disease
+http://purl.obolibrary.org/obo/OGMS_0000123,clinical data item
+http://purl.obolibrary.org/obo/OGMS_0000124,routine health care encounter
+http://purl.obolibrary.org/obo/OGMS_0000125,follow-up health care encounter
+http://purl.obolibrary.org/obo/OGMS_0000126,congenital infection
+http://purl.obolibrary.org/obo/OGMS_0000127,drug induced congenital malformation
+http://purl.obolibrary.org/obo/OGMS_0000128,congenital process
+http://purl.obolibrary.org/obo/OGMS_0000129,physical sign
+http://purl.obolibrary.org/obo/OGMS_0000130,allergic disease process
+http://purl.obolibrary.org/obo/OGMS_0000131,cancer process
+http://purl.obolibrary.org/obo/OGMS_0000132,autoimmune disease process
+http://purl.obolibrary.org/obo/OGMS_0000133,progression stage
+http://purl.obolibrary.org/obo/OGMS_0000134,cancer progression stage
+http://purl.obolibrary.org/obo/OGMS_0000135,cancer progression stage 0
+http://purl.obolibrary.org/obo/OGMS_0000136,cancer progression stage I
+http://purl.obolibrary.org/obo/OGMS_0000137,cancer progression stage II
+http://purl.obolibrary.org/obo/OGMS_0000138,cancer progression stage III
+http://purl.obolibrary.org/obo/OGMS_0000139,cancer progression stage IV
+http://purl.obolibrary.org/obo/OGMS_0000140,infectious disease process
+http://purl.obolibrary.org/obo/OGMS_0000142,qualitative sign
+http://purl.obolibrary.org/obo/OGMS_0000143,transplantation
+http://purl.obolibrary.org/obo/OGMS_0000144,solid organ transplant
+http://purl.obolibrary.org/obo/OGMS_0000145,transfusion
+http://purl.obolibrary.org/obo/OGMS_0000146,tissue disorder
+http://purl.obolibrary.org/obo/OGMS_0000147,neoplasm
+http://purl.obolibrary.org/obo/OGMS_0000148,medication role
+http://purl.obolibrary.org/obo/SYMP_0000000,cellulitis
+http://purl.obolibrary.org/obo/SYMP_0000001,abdominal cramp
+http://purl.obolibrary.org/obo/SYMP_0000002,abdominal distention
+http://purl.obolibrary.org/obo/SYMP_0000005,ataxia
+http://purl.obolibrary.org/obo/SYMP_0000006,backache
+http://purl.obolibrary.org/obo/SYMP_0000007,bleeding
+http://purl.obolibrary.org/obo/SYMP_0000008,blindness
+http://purl.obolibrary.org/obo/SYMP_0000009,blister
+http://purl.obolibrary.org/obo/SYMP_0000012,blurred vision
+http://purl.obolibrary.org/obo/SYMP_0000015,giddiness
+http://purl.obolibrary.org/obo/SYMP_0000016,confusion
+http://purl.obolibrary.org/obo/SYMP_0000017,crinkle
+http://purl.obolibrary.org/obo/SYMP_0000018,darkening of skin
+http://purl.obolibrary.org/obo/SYMP_0000019,deafness
+http://purl.obolibrary.org/obo/SYMP_0000020,dehydration
+http://purl.obolibrary.org/obo/SYMP_0000021,delirium
+http://purl.obolibrary.org/obo/SYMP_0000022,depression
+http://purl.obolibrary.org/obo/SYMP_0000023,disorientation
+http://purl.obolibrary.org/obo/SYMP_0000024,drowsiness
+http://purl.obolibrary.org/obo/SYMP_0000025,dry cough
+http://purl.obolibrary.org/obo/SYMP_0000030,paralysis
+http://purl.obolibrary.org/obo/SYMP_0000032,flaccidity
+http://purl.obolibrary.org/obo/SYMP_0000033,flat keratotic capsule
+http://purl.obolibrary.org/obo/SYMP_0000036,hemorrhagic gastroenteritis
+http://purl.obolibrary.org/obo/SYMP_0000038,dyspneic enteritis
+http://purl.obolibrary.org/obo/SYMP_0000039,enteritis
+http://purl.obolibrary.org/obo/SYMP_0000040,hematuria
+http://purl.obolibrary.org/obo/SYMP_0000041,hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0000045,hepatic necrosis
+http://purl.obolibrary.org/obo/SYMP_0000046,hepatitis
+http://purl.obolibrary.org/obo/SYMP_0000047,hepatosplenomegaly
+http://purl.obolibrary.org/obo/SYMP_0000051,hydrocephalus
+http://purl.obolibrary.org/obo/SYMP_0000054,hypergammaglobulinemia
+http://purl.obolibrary.org/obo/SYMP_0000056,hyperpigmentation
+http://purl.obolibrary.org/obo/SYMP_0000058,hyperreflexia
+http://purl.obolibrary.org/obo/SYMP_0000059,hypotension
+http://purl.obolibrary.org/obo/SYMP_0000061,inflammation
+http://purl.obolibrary.org/obo/SYMP_0000063,intestinal hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0000064,joint pain
+http://purl.obolibrary.org/obo/SYMP_0000066,keratotic nodules of the skin
+http://purl.obolibrary.org/obo/SYMP_0000068,laryngitis
+http://purl.obolibrary.org/obo/SYMP_0000069,laryngotracheitis
+http://purl.obolibrary.org/obo/SYMP_0000070,lesions in myocardium
+http://purl.obolibrary.org/obo/SYMP_0000075,lethargy
+http://purl.obolibrary.org/obo/SYMP_0000076,listlessness
+http://purl.obolibrary.org/obo/SYMP_0000079,coordination symptom
+http://purl.obolibrary.org/obo/SYMP_0000082,lesions in lung
+http://purl.obolibrary.org/obo/SYMP_0000083,lymphangitis
+http://purl.obolibrary.org/obo/SYMP_0000084,lymphoblastoma
+http://purl.obolibrary.org/obo/SYMP_0000086,lymphopenia
+http://purl.obolibrary.org/obo/SYMP_0000087,massive hepatic necrosis
+http://purl.obolibrary.org/obo/SYMP_0000089,meningoencephalitis
+http://purl.obolibrary.org/obo/SYMP_0000090,encephalitis
+http://purl.obolibrary.org/obo/SYMP_0000091,mild encephalitis
+http://purl.obolibrary.org/obo/SYMP_0000092,skin lesion
+http://purl.obolibrary.org/obo/SYMP_0000093,muscle cramp
+http://purl.obolibrary.org/obo/SYMP_0000094,muscle weakness
+http://purl.obolibrary.org/obo/SYMP_0000095,myocarditis
+http://purl.obolibrary.org/obo/SYMP_0000098,nephritis
+http://purl.obolibrary.org/obo/SYMP_0000099,pain
+http://purl.obolibrary.org/obo/SYMP_0000100,lesions in pancreas
+http://purl.obolibrary.org/obo/SYMP_0000102,peritonitis
+http://purl.obolibrary.org/obo/SYMP_0000106,plasmacytosis
+http://purl.obolibrary.org/obo/SYMP_0000107,pleural effusion
+http://purl.obolibrary.org/obo/SYMP_0000109,mouth papules
+http://purl.obolibrary.org/obo/SYMP_0000112,tracheitis
+http://purl.obolibrary.org/obo/SYMP_0000114,thrombocytopenia
+http://purl.obolibrary.org/obo/SYMP_0000116,prostration
+http://purl.obolibrary.org/obo/SYMP_0000118,rales
+http://purl.obolibrary.org/obo/SYMP_0000124,seizure
+http://purl.obolibrary.org/obo/SYMP_0000125,liver inflammation
+http://purl.obolibrary.org/obo/SYMP_0000127,severe backache
+http://purl.obolibrary.org/obo/SYMP_0000128,conjunctivitis
+http://purl.obolibrary.org/obo/SYMP_0000129,severe conjunctivitis
+http://purl.obolibrary.org/obo/SYMP_0000130,severe headache
+http://purl.obolibrary.org/obo/SYMP_0000131,severe joint pain
+http://purl.obolibrary.org/obo/SYMP_0000132,necrosis
+http://purl.obolibrary.org/obo/SYMP_0000133,severe necrosis
+http://purl.obolibrary.org/obo/SYMP_0000134,sinusitis
+http://purl.obolibrary.org/obo/SYMP_0000136,skin ulcer
+http://purl.obolibrary.org/obo/SYMP_0000139,sneezing
+http://purl.obolibrary.org/obo/SYMP_0000141,spasticity
+http://purl.obolibrary.org/obo/SYMP_0000146,feces and droppings symptom
+http://purl.obolibrary.org/obo/SYMP_0000147,steatorrhea
+http://purl.obolibrary.org/obo/SYMP_0000153,vasculitis
+http://purl.obolibrary.org/obo/SYMP_0000156,thirst
+http://purl.obolibrary.org/obo/SYMP_0000157,thymus symptom
+http://purl.obolibrary.org/obo/SYMP_0000158,spleen symptom
+http://purl.obolibrary.org/obo/SYMP_0000160,tracheobronchitis
+http://purl.obolibrary.org/obo/SYMP_0000162,tremor
+http://purl.obolibrary.org/obo/SYMP_0000164,incoordination
+http://purl.obolibrary.org/obo/SYMP_0000174,wasting
+http://purl.obolibrary.org/obo/SYMP_0000177,weakness
+http://purl.obolibrary.org/obo/SYMP_0000178,weight loss
+http://purl.obolibrary.org/obo/SYMP_0000180,liver symptom
+http://purl.obolibrary.org/obo/SYMP_0000182,bubo
+http://purl.obolibrary.org/obo/SYMP_0000183,muscle symptom
+http://purl.obolibrary.org/obo/SYMP_0000184,change in skin color
+http://purl.obolibrary.org/obo/SYMP_0000185,weariness
+http://purl.obolibrary.org/obo/SYMP_0000186,exhaustion
+http://purl.obolibrary.org/obo/SYMP_0000187,tiredness
+http://purl.obolibrary.org/obo/SYMP_0000188,abdominal discomfort
+http://purl.obolibrary.org/obo/SYMP_0000189,postural reaction
+http://purl.obolibrary.org/obo/SYMP_0000190,wheelbarrowing
+http://purl.obolibrary.org/obo/SYMP_0000193,hopping
+http://purl.obolibrary.org/obo/SYMP_0000194,conscious proprioception
+http://purl.obolibrary.org/obo/SYMP_0000195,abnormal hemiwalking hemistanding
+http://purl.obolibrary.org/obo/SYMP_0000196,reproductive system symptom
+http://purl.obolibrary.org/obo/SYMP_0000197,abortion
+http://purl.obolibrary.org/obo/SYMP_0000198,miscarriage
+http://purl.obolibrary.org/obo/SYMP_0000199,spontaneous abortion
+http://purl.obolibrary.org/obo/SYMP_0000200,acute arthritis
+http://purl.obolibrary.org/obo/SYMP_0000201,acute meningoencephalitis
+http://purl.obolibrary.org/obo/SYMP_0000202,acute painful vision loss
+http://purl.obolibrary.org/obo/SYMP_0000205,salivary gland symptom
+http://purl.obolibrary.org/obo/SYMP_0000206,acute suppurative parotiditis
+http://purl.obolibrary.org/obo/SYMP_0000207,afebrile
+http://purl.obolibrary.org/obo/SYMP_0000208,anemia
+http://purl.obolibrary.org/obo/SYMP_0000209,ischemia
+http://purl.obolibrary.org/obo/SYMP_0000210,photophobia
+http://purl.obolibrary.org/obo/SYMP_0000211,asthenopia
+http://purl.obolibrary.org/obo/SYMP_0000212,eye strain
+http://purl.obolibrary.org/obo/SYMP_0000213,agraphia
+http://purl.obolibrary.org/obo/SYMP_0000214,anomia
+http://purl.obolibrary.org/obo/SYMP_0000215,inability to comprehend speech
+http://purl.obolibrary.org/obo/SYMP_0000216,inability to speak
+http://purl.obolibrary.org/obo/SYMP_0000217,inability to form words
+http://purl.obolibrary.org/obo/SYMP_0000218,poor enunciation
+http://purl.obolibrary.org/obo/SYMP_0000219,receptive aphasia
+http://purl.obolibrary.org/obo/SYMP_0000220,areflexia
+http://purl.obolibrary.org/obo/SYMP_0000221,absence of knee jerk reflex
+http://purl.obolibrary.org/obo/SYMP_0000222,limb weakness
+http://purl.obolibrary.org/obo/SYMP_0000223,arm weakness
+http://purl.obolibrary.org/obo/SYMP_0000224,leg weakness
+http://purl.obolibrary.org/obo/SYMP_0000225,asthenia
+http://purl.obolibrary.org/obo/SYMP_0000226,atrial fibrillation
+http://purl.obolibrary.org/obo/SYMP_0000227,blood vessel infection
+http://purl.obolibrary.org/obo/SYMP_0000228,hemorrhagic diarrhea
+http://purl.obolibrary.org/obo/SYMP_0000229,bloody stool
+http://purl.obolibrary.org/obo/SYMP_0000230,body ache
+http://purl.obolibrary.org/obo/SYMP_0000231,bradycardia
+http://purl.obolibrary.org/obo/SYMP_0000232,bronchiolitis
+http://purl.obolibrary.org/obo/SYMP_0000233,inability to think clearly
+http://purl.obolibrary.org/obo/SYMP_0000234,cloudy cornea
+http://purl.obolibrary.org/obo/SYMP_0000235,colic
+http://purl.obolibrary.org/obo/SYMP_0000236,colicky pain
+http://purl.obolibrary.org/obo/SYMP_0000237,congestion
+http://purl.obolibrary.org/obo/SYMP_0000238,continuous profuse salivation
+http://purl.obolibrary.org/obo/SYMP_0000239,cornea symptom
+http://purl.obolibrary.org/obo/SYMP_0000240,corneal opacity
+http://purl.obolibrary.org/obo/SYMP_0000241,corneal ulcers
+http://purl.obolibrary.org/obo/SYMP_0000242,cough with bloody sputum
+http://purl.obolibrary.org/obo/SYMP_0000243,cyclic fever
+http://purl.obolibrary.org/obo/SYMP_0000244,alteration of appetite
+http://purl.obolibrary.org/obo/SYMP_0000245,decreased appetite
+http://purl.obolibrary.org/obo/SYMP_0000246,increased appetite
+http://purl.obolibrary.org/obo/SYMP_0000247,proprioception symptom
+http://purl.obolibrary.org/obo/SYMP_0000248,decreased conscious proprioception
+http://purl.obolibrary.org/obo/SYMP_0000249,reflex symptom
+http://purl.obolibrary.org/obo/SYMP_0000250,decreased flexor withdrawal reflex
+http://purl.obolibrary.org/obo/SYMP_0000251,dermal abscess
+http://purl.obolibrary.org/obo/SYMP_0000252,diffuse rash
+http://purl.obolibrary.org/obo/SYMP_0000253,anisocoria
+http://purl.obolibrary.org/obo/SYMP_0000254,dilated pupil
+http://purl.obolibrary.org/obo/SYMP_0000255,diminished gastro-intestinal motility
+http://purl.obolibrary.org/obo/SYMP_0000256,diminished gag reflex
+http://purl.obolibrary.org/obo/SYMP_0000257,absent gag reflex
+http://purl.obolibrary.org/obo/SYMP_0000258,double vision
+http://purl.obolibrary.org/obo/SYMP_0000259,dry hacking cough
+http://purl.obolibrary.org/obo/SYMP_0000260,dry mouth
+http://purl.obolibrary.org/obo/SYMP_0000261,dry mucous membrane
+http://purl.obolibrary.org/obo/SYMP_0000262,endocarditis
+http://purl.obolibrary.org/obo/SYMP_0000263,epididymitis
+http://purl.obolibrary.org/obo/SYMP_0000264,epididymorchitis
+http://purl.obolibrary.org/obo/SYMP_0000266,focal seizure
+http://purl.obolibrary.org/obo/SYMP_0000267,generalized seizure
+http://purl.obolibrary.org/obo/SYMP_0000268,tonic-clonic seizure
+http://purl.obolibrary.org/obo/SYMP_0000269,epileptic seizure
+http://purl.obolibrary.org/obo/SYMP_0000270,simple partial seizure
+http://purl.obolibrary.org/obo/SYMP_0000271,complex partial seizure
+http://purl.obolibrary.org/obo/SYMP_0000272,myoclonic seizure
+http://purl.obolibrary.org/obo/SYMP_0000273,clonic seizure
+http://purl.obolibrary.org/obo/SYMP_0000274,tonic seizure
+http://purl.obolibrary.org/obo/SYMP_0000275,atonic seizure
+http://purl.obolibrary.org/obo/SYMP_0000277,excess salivation
+http://purl.obolibrary.org/obo/SYMP_0000278,extensive ulcer
+http://purl.obolibrary.org/obo/SYMP_0000279,extreme exhaustion
+http://purl.obolibrary.org/obo/SYMP_0000280,extreme fatigue
+http://purl.obolibrary.org/obo/SYMP_0000281,eye discharge
+http://purl.obolibrary.org/obo/SYMP_0000282,fixed dilated pupils
+http://purl.obolibrary.org/obo/SYMP_0000283,facial paralysis
+http://purl.obolibrary.org/obo/SYMP_0000284,fixed pupil
+http://purl.obolibrary.org/obo/SYMP_0000285,flaccid paralysis
+http://purl.obolibrary.org/obo/SYMP_0000287,arrhythmia
+http://purl.obolibrary.org/obo/SYMP_0000289,eczema
+http://purl.obolibrary.org/obo/SYMP_0000290,belching
+http://purl.obolibrary.org/obo/SYMP_0000291,gas pain
+http://purl.obolibrary.org/obo/SYMP_0000292,heart failure
+http://purl.obolibrary.org/obo/SYMP_0000293,hemiparesis
+http://purl.obolibrary.org/obo/SYMP_0000294,hemolysis
+http://purl.obolibrary.org/obo/SYMP_0000295,hepatic abscess
+http://purl.obolibrary.org/obo/SYMP_0000296,hepatic dysfunction
+http://purl.obolibrary.org/obo/SYMP_0000297,hilar lymphadenitis
+http://purl.obolibrary.org/obo/SYMP_0000298,hoarse voice
+http://purl.obolibrary.org/obo/SYMP_0000299,hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000300,hyperesthesia
+http://purl.obolibrary.org/obo/SYMP_0000301,hypopyon
+http://purl.obolibrary.org/obo/SYMP_0000302,hypothermia
+http://purl.obolibrary.org/obo/SYMP_0000303,hypoxemia
+http://purl.obolibrary.org/obo/SYMP_0000304,impaired coordination
+http://purl.obolibrary.org/obo/SYMP_0000305,impaired gag reflex
+http://purl.obolibrary.org/obo/SYMP_0000306,inability to feed
+http://purl.obolibrary.org/obo/SYMP_0000307,inibility to stand
+http://purl.obolibrary.org/obo/SYMP_0000308,inability to swallow
+http://purl.obolibrary.org/obo/SYMP_0000309,loss of appetite
+http://purl.obolibrary.org/obo/SYMP_0000310,inflamed eyes
+http://purl.obolibrary.org/obo/SYMP_0000311,intestinal hypermotility
+http://purl.obolibrary.org/obo/SYMP_0000312,joint symptom
+http://purl.obolibrary.org/obo/SYMP_0000313,joint inflammation
+http://purl.obolibrary.org/obo/SYMP_0000314,keratitis
+http://purl.obolibrary.org/obo/SYMP_0000315,lateroventral deviation of the head
+http://purl.obolibrary.org/obo/SYMP_0000316,leg cramp
+http://purl.obolibrary.org/obo/SYMP_0000318,loss of balance
+http://purl.obolibrary.org/obo/SYMP_0000319,loss of tendon reflex
+http://purl.obolibrary.org/obo/SYMP_0000320,vision symptom
+http://purl.obolibrary.org/obo/SYMP_0000321,loss of vision
+http://purl.obolibrary.org/obo/SYMP_0000322,low birth weight
+http://purl.obolibrary.org/obo/SYMP_0000323,melena
+http://purl.obolibrary.org/obo/SYMP_0000324,bronchitis
+http://purl.obolibrary.org/obo/SYMP_0000325,mild bronchitis
+http://purl.obolibrary.org/obo/SYMP_0000326,mild hypotension
+http://purl.obolibrary.org/obo/SYMP_0000327,tetanic convulsion
+http://purl.obolibrary.org/obo/SYMP_0000328,mild tetanic convulsion
+http://purl.obolibrary.org/obo/SYMP_0000329,motor weakness
+http://purl.obolibrary.org/obo/SYMP_0000330,mouth sore
+http://purl.obolibrary.org/obo/SYMP_0000331,muscle ache
+http://purl.obolibrary.org/obo/SYMP_0000332,muscle soreness
+http://purl.obolibrary.org/obo/SYMP_0000333,muscle tenderness
+http://purl.obolibrary.org/obo/SYMP_0000334,muscle necrosis
+http://purl.obolibrary.org/obo/SYMP_0000335,neck weakness
+http://purl.obolibrary.org/obo/SYMP_0000336,neurological dysfunction
+http://purl.obolibrary.org/obo/SYMP_0000337,night sweats
+http://purl.obolibrary.org/obo/SYMP_0000338,nystagmus
+http://purl.obolibrary.org/obo/SYMP_0000339,occasional diplopia
+http://purl.obolibrary.org/obo/SYMP_0000340,limb edema
+http://purl.obolibrary.org/obo/SYMP_0000342,slurred speech
+http://purl.obolibrary.org/obo/SYMP_0000343,painful lymph glands
+http://purl.obolibrary.org/obo/SYMP_0000344,palpebral edema
+http://purl.obolibrary.org/obo/SYMP_0000345,panting respiration
+http://purl.obolibrary.org/obo/SYMP_0000346,papule
+http://purl.obolibrary.org/obo/SYMP_0000347,lip paralysis
+http://purl.obolibrary.org/obo/SYMP_0000348,throat muscle paralysis
+http://purl.obolibrary.org/obo/SYMP_0000349,paraplegia
+http://purl.obolibrary.org/obo/SYMP_0000350,parotid abscess
+http://purl.obolibrary.org/obo/SYMP_0000352,peripheral muscle weakness
+http://purl.obolibrary.org/obo/SYMP_0000353,phlegm
+http://purl.obolibrary.org/obo/SYMP_0000354,pneumonitis
+http://purl.obolibrary.org/obo/SYMP_0000355,poor feeding
+http://purl.obolibrary.org/obo/SYMP_0000356,phlebitis
+http://purl.obolibrary.org/obo/SYMP_0000357,postphlebitic ulcer
+http://purl.obolibrary.org/obo/SYMP_0000358,premature labor
+http://purl.obolibrary.org/obo/SYMP_0000359,profound weakness
+http://purl.obolibrary.org/obo/SYMP_0000360,emaciation
+http://purl.obolibrary.org/obo/SYMP_0000361,progressive emaciation
+http://purl.obolibrary.org/obo/SYMP_0000362,progressive prostration
+http://purl.obolibrary.org/obo/SYMP_0000363,progressive weakness
+http://purl.obolibrary.org/obo/SYMP_0000364,prostate symptom
+http://purl.obolibrary.org/obo/SYMP_0000365,prostatic abscess
+http://purl.obolibrary.org/obo/SYMP_0000366,prostatic infection
+http://purl.obolibrary.org/obo/SYMP_0000367,proteinuria
+http://purl.obolibrary.org/obo/SYMP_0000368,proximal paralysis of arm and leg
+http://purl.obolibrary.org/obo/SYMP_0000369,ptosis
+http://purl.obolibrary.org/obo/SYMP_0000370,renal abscess
+http://purl.obolibrary.org/obo/SYMP_0000371,respiratory paralysis
+http://purl.obolibrary.org/obo/SYMP_0000372,rhinorrhea
+http://purl.obolibrary.org/obo/SYMP_0000373,salivation
+http://purl.obolibrary.org/obo/SYMP_0000374,scrotal abscess
+http://purl.obolibrary.org/obo/SYMP_0000375,severe abdominal cramp
+http://purl.obolibrary.org/obo/SYMP_0000376,severe diarrhea
+http://purl.obolibrary.org/obo/SYMP_0000379,severe myalgia
+http://purl.obolibrary.org/obo/SYMP_0000381,spleen abscess
+http://purl.obolibrary.org/obo/SYMP_0000382,staggering gait
+http://purl.obolibrary.org/obo/SYMP_0000383,stiff neck
+http://purl.obolibrary.org/obo/SYMP_0000384,neck symptom
+http://purl.obolibrary.org/obo/SYMP_0000385,throat symptom
+http://purl.obolibrary.org/obo/SYMP_0000386,mouth symptom
+http://purl.obolibrary.org/obo/SYMP_0000387,head symptom
+http://purl.obolibrary.org/obo/SYMP_0000388,nose symptom
+http://purl.obolibrary.org/obo/SYMP_0000389,stupor
+http://purl.obolibrary.org/obo/SYMP_0000390,thyroid symptom
+http://purl.obolibrary.org/obo/SYMP_0000391,thyroid abscesses
+http://purl.obolibrary.org/obo/SYMP_0000392,ear symptom
+http://purl.obolibrary.org/obo/SYMP_0000393,tinnitus
+http://purl.obolibrary.org/obo/SYMP_0000394,muscle twitching
+http://purl.obolibrary.org/obo/SYMP_0000395,facial muscle twitching
+http://purl.obolibrary.org/obo/SYMP_0000396,mydriasis
+http://purl.obolibrary.org/obo/SYMP_0000397,unreactive mydriasis
+http://purl.obolibrary.org/obo/SYMP_0000398,vaginal discharge
+http://purl.obolibrary.org/obo/SYMP_0000399,vertigo
+http://purl.obolibrary.org/obo/SYMP_0000400,weak cry
+http://purl.obolibrary.org/obo/SYMP_0000401,wobble
+http://purl.obolibrary.org/obo/SYMP_0000402,cachexia
+http://purl.obolibrary.org/obo/SYMP_0000403,weight gain
+http://purl.obolibrary.org/obo/SYMP_0000404,dyspareunia
+http://purl.obolibrary.org/obo/SYMP_0000405,vaginismus
+http://purl.obolibrary.org/obo/SYMP_0000406,bruise
+http://purl.obolibrary.org/obo/SYMP_0000407,syncope
+http://purl.obolibrary.org/obo/SYMP_0000408,cataplexy
+http://purl.obolibrary.org/obo/SYMP_0000409,hyperthermia
+http://purl.obolibrary.org/obo/SYMP_0000410,neurological and physiological symptom
+http://purl.obolibrary.org/obo/SYMP_0000411,infant symptom
+http://purl.obolibrary.org/obo/SYMP_0000412,anxiety
+http://purl.obolibrary.org/obo/SYMP_0000413,catatonia
+http://purl.obolibrary.org/obo/SYMP_0000414,dysarthria
+http://purl.obolibrary.org/obo/SYMP_0000415,amaurosis fugax
+http://purl.obolibrary.org/obo/SYMP_0000416,amaurosis
+http://purl.obolibrary.org/obo/SYMP_0000417,pupil symptom
+http://purl.obolibrary.org/obo/SYMP_0000418,contracted pupil
+http://purl.obolibrary.org/obo/SYMP_0000419,miosis
+http://purl.obolibrary.org/obo/SYMP_0000420,bloating
+http://purl.obolibrary.org/obo/SYMP_0000421,hematochezia
+http://purl.obolibrary.org/obo/SYMP_0000422,dyspepsia
+http://purl.obolibrary.org/obo/SYMP_0000423,pyrosis
+http://purl.obolibrary.org/obo/SYMP_0000424,claudication
+http://purl.obolibrary.org/obo/SYMP_0000425,reticulocytosis
+http://purl.obolibrary.org/obo/SYMP_0000426,macrocytosis
+http://purl.obolibrary.org/obo/SYMP_0000428,hypoventilation
+http://purl.obolibrary.org/obo/SYMP_0000429,bradypnea
+http://purl.obolibrary.org/obo/SYMP_0000430,pleuritic chest pain
+http://purl.obolibrary.org/obo/SYMP_0000431,sputum
+http://purl.obolibrary.org/obo/SYMP_0000432,itching
+http://purl.obolibrary.org/obo/SYMP_0000433,anasarca
+http://purl.obolibrary.org/obo/SYMP_0000434,urticaria
+http://purl.obolibrary.org/obo/SYMP_0000435,paresthesia
+http://purl.obolibrary.org/obo/SYMP_0000436,abnormal vaginal bleeding
+http://purl.obolibrary.org/obo/SYMP_0000437,earache
+http://purl.obolibrary.org/obo/SYMP_0000438,toothache
+http://purl.obolibrary.org/obo/SYMP_0000440,hair loss
+http://purl.obolibrary.org/obo/SYMP_0000441,elbow pain
+http://purl.obolibrary.org/obo/SYMP_0000442,knee pain
+http://purl.obolibrary.org/obo/SYMP_0000443,shoulder pain
+http://purl.obolibrary.org/obo/SYMP_0000444,nail discoloration
+http://purl.obolibrary.org/obo/SYMP_0000446,bloodshot eye
+http://purl.obolibrary.org/obo/SYMP_0000447,bloody sputum
+http://purl.obolibrary.org/obo/SYMP_0000448,epistaxis
+http://purl.obolibrary.org/obo/SYMP_0000449,cardiogenic shock
+http://purl.obolibrary.org/obo/SYMP_0000450,shock
+http://purl.obolibrary.org/obo/SYMP_0000451,septic shock
+http://purl.obolibrary.org/obo/SYMP_0000452,abnormal sputum
+http://purl.obolibrary.org/obo/SYMP_0000453,right upper quadrant abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000454,abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000455,abnormal weight gain
+http://purl.obolibrary.org/obo/SYMP_0000456,left upper quadrant abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000457,abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000458,nausea
+http://purl.obolibrary.org/obo/SYMP_0000459,digestive system symptom
+http://purl.obolibrary.org/obo/SYMP_0000460,hepatomegaly
+http://purl.obolibrary.org/obo/SYMP_0000461,abdominal symptom
+http://purl.obolibrary.org/obo/SYMP_0000462,symptom
+http://purl.obolibrary.org/obo/SYMP_0000463,lack of normal physiological development
+http://purl.obolibrary.org/obo/SYMP_0000464,lack of expected normal physiological development in childhood
+http://purl.obolibrary.org/obo/SYMP_0000465,failure to thrive
+http://purl.obolibrary.org/obo/SYMP_0000466,delayed milestones
+http://purl.obolibrary.org/obo/SYMP_0000467,right lower quadrant abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000468,generalized abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000469,epigastric abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000470,left upper quadrant abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000471,multiple sites abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000472,early satiety
+http://purl.obolibrary.org/obo/SYMP_0000473,nutrition, metabolism, and development symptom
+http://purl.obolibrary.org/obo/SYMP_0000475,underweight
+http://purl.obolibrary.org/obo/SYMP_0000477,epigastric abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000478,abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000479,abnormality of gait
+http://purl.obolibrary.org/obo/SYMP_0000480,nervous system symptom
+http://purl.obolibrary.org/obo/SYMP_0000481,persistent vegetative state
+http://purl.obolibrary.org/obo/SYMP_0000482,alteration of consciousness
+http://purl.obolibrary.org/obo/SYMP_0000483,left lower quadrant abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000484,abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000485,dysuria
+http://purl.obolibrary.org/obo/SYMP_0000486,urinary system symptom
+http://purl.obolibrary.org/obo/SYMP_0000487,rash
+http://purl.obolibrary.org/obo/SYMP_0000488,skin and integumentary tissue symptom
+http://purl.obolibrary.org/obo/SYMP_0000489,abnormal bowel sound
+http://purl.obolibrary.org/obo/SYMP_0000490,multiple sites abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000491,continuous leakage of urine
+http://purl.obolibrary.org/obo/SYMP_0000492,urinary incontinence
+http://purl.obolibrary.org/obo/SYMP_0000493,dysphagia
+http://purl.obolibrary.org/obo/SYMP_0000494,renal colic
+http://purl.obolibrary.org/obo/SYMP_0000495,urethral discharge
+http://purl.obolibrary.org/obo/SYMP_0000496,epigastric abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000497,periumbilic abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000498,generalized abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000499,right upper quadrant abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000500,right lower quadrant abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000501,left lower quadrant abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000502,mixed incontinence (female) (male)
+http://purl.obolibrary.org/obo/SYMP_0000503,adult failure to thrive
+http://purl.obolibrary.org/obo/SYMP_0000504,headache
+http://purl.obolibrary.org/obo/SYMP_0000505,throat pain
+http://purl.obolibrary.org/obo/SYMP_0000506,hemorrhage from throat
+http://purl.obolibrary.org/obo/SYMP_0000507,head swelling
+http://purl.obolibrary.org/obo/SYMP_0000508,aphasia
+http://purl.obolibrary.org/obo/SYMP_0000509,flatulence
+http://purl.obolibrary.org/obo/SYMP_0000510,pallor
+http://purl.obolibrary.org/obo/SYMP_0000511,flushing
+http://purl.obolibrary.org/obo/SYMP_0000512,male stress incontinence
+http://purl.obolibrary.org/obo/SYMP_0000513,stridor
+http://purl.obolibrary.org/obo/SYMP_0000514,respiratory system and chest symptom
+http://purl.obolibrary.org/obo/SYMP_0000515,hiccough
+http://purl.obolibrary.org/obo/SYMP_0000516,lump in chest
+http://purl.obolibrary.org/obo/SYMP_0000517,hemoptysis
+http://purl.obolibrary.org/obo/SYMP_0000518,generalized abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000519,abnormal feces
+http://purl.obolibrary.org/obo/SYMP_0000520,visible peristalsis
+http://purl.obolibrary.org/obo/SYMP_0000521,enlargement of lymph nodes
+http://purl.obolibrary.org/obo/SYMP_0000522,feeding difficulties and mismanagement
+http://purl.obolibrary.org/obo/SYMP_0000523,anorexia
+http://purl.obolibrary.org/obo/SYMP_0000524,polyphagia
+http://purl.obolibrary.org/obo/SYMP_0000525,transient alteration of awareness
+http://purl.obolibrary.org/obo/SYMP_0000526,ascites
+http://purl.obolibrary.org/obo/SYMP_0000527,undiagnosed cardiac murmur
+http://purl.obolibrary.org/obo/SYMP_0000528,cardiovascular system symptom
+http://purl.obolibrary.org/obo/SYMP_0000529,tachycardia
+http://purl.obolibrary.org/obo/SYMP_0000530,palpitation
+http://purl.obolibrary.org/obo/SYMP_0000531,splenomegaly
+http://purl.obolibrary.org/obo/SYMP_0000532,urge incontinence
+http://purl.obolibrary.org/obo/SYMP_0000533,post-void dribbling
+http://purl.obolibrary.org/obo/SYMP_0000534,spontaneous ecchymoses
+http://purl.obolibrary.org/obo/SYMP_0000535,change in skin texture
+http://purl.obolibrary.org/obo/SYMP_0000536,disturbance of skin sensation
+http://purl.obolibrary.org/obo/SYMP_0000537,cyanosis
+http://purl.obolibrary.org/obo/SYMP_0000538,edema
+http://purl.obolibrary.org/obo/SYMP_0000539,jaundice
+http://purl.obolibrary.org/obo/SYMP_0000540,painful respiration
+http://purl.obolibrary.org/obo/SYMP_0000541,periumbilic abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000542,epigastric abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000543,memory loss
+http://purl.obolibrary.org/obo/SYMP_0000544,transient paralysis of limb
+http://purl.obolibrary.org/obo/SYMP_0000545,multiple sites abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000546,right lower quadrant abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000547,right upper quadrant abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000548,right lower quadrant abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000549,generalized abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000550,clubbing of fingers
+http://purl.obolibrary.org/obo/SYMP_0000551,disturbances of sensation of smell and taste
+http://purl.obolibrary.org/obo/SYMP_0000552,meningismus
+http://purl.obolibrary.org/obo/SYMP_0000553,neurologic neglect syndrome
+http://purl.obolibrary.org/obo/SYMP_0000554,left lower quadrant abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000555,left upper quadrant abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000556,localized superficial lump
+http://purl.obolibrary.org/obo/SYMP_0000557,urinary retention
+http://purl.obolibrary.org/obo/SYMP_0000558,incomplete bladder emptying
+http://purl.obolibrary.org/obo/SYMP_0000559,voice disturbance
+http://purl.obolibrary.org/obo/SYMP_0000560,polydipsia
+http://purl.obolibrary.org/obo/SYMP_0000561,multiple sites abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000562,right upper quadrant abdominal swelling
+http://purl.obolibrary.org/obo/SYMP_0000563,urinary frequency
+http://purl.obolibrary.org/obo/SYMP_0000564,nocturia
+http://purl.obolibrary.org/obo/SYMP_0000565,polyuria
+http://purl.obolibrary.org/obo/SYMP_0000566,sleep disturbance
+http://purl.obolibrary.org/obo/SYMP_0000567,general symptom
+http://purl.obolibrary.org/obo/SYMP_0000568,short stature
+http://purl.obolibrary.org/obo/SYMP_0000569,oliguria
+http://purl.obolibrary.org/obo/SYMP_0000570,diarrhea
+http://purl.obolibrary.org/obo/SYMP_0000571,insomnia
+http://purl.obolibrary.org/obo/SYMP_0000572,splitting of urinary stream
+http://purl.obolibrary.org/obo/SYMP_0000573,urinary stream symptom
+http://purl.obolibrary.org/obo/SYMP_0000574,aphonia
+http://purl.obolibrary.org/obo/SYMP_0000575,precordial pain
+http://purl.obolibrary.org/obo/SYMP_0000576,chest pain
+http://purl.obolibrary.org/obo/SYMP_0000577,fussy infant
+http://purl.obolibrary.org/obo/SYMP_0000578,incontinence without sensory awareness
+http://purl.obolibrary.org/obo/SYMP_0000579,insomnia with sleep apnea
+http://purl.obolibrary.org/obo/SYMP_0000580,dysfunctions associated with sleep stages
+http://purl.obolibrary.org/obo/SYMP_0000581,sleep apnea
+http://purl.obolibrary.org/obo/SYMP_0000582,hypersomnia
+http://purl.obolibrary.org/obo/SYMP_0000583,hypersomnia with sleep apnea
+http://purl.obolibrary.org/obo/SYMP_0000584,disruptions of 24-hour sleep-wake cycle
+http://purl.obolibrary.org/obo/SYMP_0000585,sleep related movement disorder
+http://purl.obolibrary.org/obo/SYMP_0000586,overflow incontinence
+http://purl.obolibrary.org/obo/SYMP_0000587,abnormal chest sound
+http://purl.obolibrary.org/obo/SYMP_0000588,extravasation of urine
+http://purl.obolibrary.org/obo/SYMP_0000589,slowing of urinary stream
+http://purl.obolibrary.org/obo/SYMP_0000590,urinary urgency
+http://purl.obolibrary.org/obo/SYMP_0000591,left upper quadrant abdominal tenderness
+http://purl.obolibrary.org/obo/SYMP_0000592,excessive crying of infant
+http://purl.obolibrary.org/obo/SYMP_0000593,gangrene
+http://purl.obolibrary.org/obo/SYMP_0000594,abnormal involuntary movement
+http://purl.obolibrary.org/obo/SYMP_0000595,febrile convulsion
+http://purl.obolibrary.org/obo/SYMP_0000596,convulsion
+http://purl.obolibrary.org/obo/SYMP_0000597,head and neck symptom
+http://purl.obolibrary.org/obo/SYMP_0000598,respiratory abnormality
+http://purl.obolibrary.org/obo/SYMP_0000599,cheyne-stokes respiration
+http://purl.obolibrary.org/obo/SYMP_0000600,apnea
+http://purl.obolibrary.org/obo/SYMP_0000601,hyperventilation
+http://purl.obolibrary.org/obo/SYMP_0000602,orthopnea
+http://purl.obolibrary.org/obo/SYMP_0000603,tachypnea
+http://purl.obolibrary.org/obo/SYMP_0000604,wheezing
+http://purl.obolibrary.org/obo/SYMP_0000605,coma
+http://purl.obolibrary.org/obo/SYMP_0000606,nocturnal enuresis
+http://purl.obolibrary.org/obo/SYMP_0000607,hallucination
+http://purl.obolibrary.org/obo/SYMP_0000608,syncope and collapse
+http://purl.obolibrary.org/obo/SYMP_0000609,generalized hyperhidrosis
+http://purl.obolibrary.org/obo/SYMP_0000610,dizziness
+http://purl.obolibrary.org/obo/SYMP_0000611,periumbilic abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000612,periumbilic abdominal rigidity
+http://purl.obolibrary.org/obo/SYMP_0000613,fever
+http://purl.obolibrary.org/obo/SYMP_0000614,cough
+http://purl.obolibrary.org/obo/SYMP_0000616,loss of height
+http://purl.obolibrary.org/obo/SYMP_0000617,torticollis
+http://purl.obolibrary.org/obo/SYMP_0000618,abnormal posture
+http://purl.obolibrary.org/obo/SYMP_0000619,tetany
+http://purl.obolibrary.org/obo/SYMP_0000620,left lower quadrant abdominal pain
+http://purl.obolibrary.org/obo/SYMP_0000621,alexia
+http://purl.obolibrary.org/obo/SYMP_0000622,acute mesenteric lymphadenitis
+http://purl.obolibrary.org/obo/SYMP_0000623,acute renal failure
+http://purl.obolibrary.org/obo/SYMP_0000625,conscious disturbance
+http://purl.obolibrary.org/obo/SYMP_0000627,disturbed vision
+http://purl.obolibrary.org/obo/SYMP_0000628,vision distortion
+http://purl.obolibrary.org/obo/SYMP_0000629,exanthema
+http://purl.obolibrary.org/obo/SYMP_0000630,frontal headache
+http://purl.obolibrary.org/obo/SYMP_0000631,hemolytic anemia
+http://purl.obolibrary.org/obo/SYMP_0000632,hip pain
+http://purl.obolibrary.org/obo/SYMP_0000633,inflammatory low back pain
+http://purl.obolibrary.org/obo/SYMP_0000634,leukocytosis
+http://purl.obolibrary.org/obo/SYMP_0000635,low backache
+http://purl.obolibrary.org/obo/SYMP_0000636,maculopapular rash
+http://purl.obolibrary.org/obo/SYMP_0000637,opisthotonus
+http://purl.obolibrary.org/obo/SYMP_0000638,papular rash
+http://purl.obolibrary.org/obo/SYMP_0000639,rectorrhagia
+http://purl.obolibrary.org/obo/SYMP_0000640,ankle rash
+http://purl.obolibrary.org/obo/SYMP_0000641,renal involvement
+http://purl.obolibrary.org/obo/SYMP_0000643,respiratory failure
+http://purl.obolibrary.org/obo/SYMP_0000644,ruffled feather
+http://purl.obolibrary.org/obo/SYMP_0000646,synovitis
+http://purl.obolibrary.org/obo/SYMP_0000647,tache noire
+http://purl.obolibrary.org/obo/SYMP_0000648,tenesmus
+http://purl.obolibrary.org/obo/SYMP_0000649,terminal ileitis
+http://purl.obolibrary.org/obo/SYMP_0000650,thick white exudate on tongue
+http://purl.obolibrary.org/obo/SYMP_0000651,discharge
+http://purl.obolibrary.org/obo/SYMP_0000652,wound discharge
+http://purl.obolibrary.org/obo/SYMP_0000653,yellow dropping
+http://purl.obolibrary.org/obo/SYMP_0000654,irritability
+http://purl.obolibrary.org/obo/SYMP_0000655,mouth bleeding
+http://purl.obolibrary.org/obo/SYMP_0000656,pale mucous membrane
+http://purl.obolibrary.org/obo/SYMP_0000657,ischemic necrosis of jejunum
+http://purl.obolibrary.org/obo/SYMP_0000658,extraocular muscles paralysis
+http://purl.obolibrary.org/obo/SYMP_0000659,pareses
+http://purl.obolibrary.org/obo/SYMP_0000660,purpuric rash
+http://purl.obolibrary.org/obo/SYMP_0000661,recumbency
+http://purl.obolibrary.org/obo/SYMP_0000662,shakes
+http://purl.obolibrary.org/obo/SYMP_0000663,uncoordinated gait
+http://purl.obolibrary.org/obo/SYMP_0000664,yellow exudate from nose
+http://purl.obolibrary.org/obo/SYMP_0000665,yellow exudate from eyes
+http://purl.obolibrary.org/obo/SYMP_0000666,abnormal behavior
+http://purl.obolibrary.org/obo/SYMP_0000669,abnormal hemistanding
+http://purl.obolibrary.org/obo/SYMP_0000670,abnormal hemiwalking
+http://purl.obolibrary.org/obo/SYMP_0000671,sudden onset of fever
+http://purl.obolibrary.org/obo/SYMP_0000672,abscess
+http://purl.obolibrary.org/obo/SYMP_0000673,bradykinesia
+http://purl.obolibrary.org/obo/SYMP_0000674,acute cranial nerve dysfunction
+http://purl.obolibrary.org/obo/SYMP_0000675,acute diarrhea
+http://purl.obolibrary.org/obo/SYMP_0000676,acute enteritis
+http://purl.obolibrary.org/obo/SYMP_0000677,acute gastroenteritis
+http://purl.obolibrary.org/obo/SYMP_0000678,acute mental dysfunction
+http://purl.obolibrary.org/obo/SYMP_0000679,acute dyspnea
+http://purl.obolibrary.org/obo/SYMP_0000680,acute weight loss
+http://purl.obolibrary.org/obo/SYMP_0000681,aggressive behavior
+http://purl.obolibrary.org/obo/SYMP_0000682,altered mental status
+http://purl.obolibrary.org/obo/SYMP_0000684,bifrontal headache
+http://purl.obolibrary.org/obo/SYMP_0000685,brain cyst
+http://purl.obolibrary.org/obo/SYMP_0000686,chronic cough
+http://purl.obolibrary.org/obo/SYMP_0000688,circling movement
+http://purl.obolibrary.org/obo/SYMP_0000689,cramp
+http://purl.obolibrary.org/obo/SYMP_0000690,cranial nerve palsies
+http://purl.obolibrary.org/obo/SYMP_0000691,cytopenia
+http://purl.obolibrary.org/obo/SYMP_0000692,low blood pressure
+http://purl.obolibrary.org/obo/SYMP_0000693,decreased facial sensation
+http://purl.obolibrary.org/obo/SYMP_0000694,decreased jaw tone
+http://purl.obolibrary.org/obo/SYMP_0000695,decreased milk production
+http://purl.obolibrary.org/obo/SYMP_0000696,decreased motor response
+http://purl.obolibrary.org/obo/SYMP_0000697,decreased pharyngeal tone
+http://purl.obolibrary.org/obo/SYMP_0000698,decreased sucking
+http://purl.obolibrary.org/obo/SYMP_0000699,deltoid muscle weakness
+http://purl.obolibrary.org/obo/SYMP_0000700,diminished spontaneous movement
+http://purl.obolibrary.org/obo/SYMP_0000701,nasal discharge
+http://purl.obolibrary.org/obo/SYMP_0000702,distended loops of intestines on rectal
+http://purl.obolibrary.org/obo/SYMP_0000703,droopy ears
+http://purl.obolibrary.org/obo/SYMP_0000704,dysphonia
+http://purl.obolibrary.org/obo/SYMP_0000705,expressive aphasia
+http://purl.obolibrary.org/obo/SYMP_0000706,facial weakness
+http://purl.obolibrary.org/obo/SYMP_0000707,flaccid muscle tone
+http://purl.obolibrary.org/obo/SYMP_0000709,granulomatous inflammation
+http://purl.obolibrary.org/obo/SYMP_0000710,head pressing
+http://purl.obolibrary.org/obo/SYMP_0000711,hind limb paralysis
+http://purl.obolibrary.org/obo/SYMP_0000712,infertility
+http://purl.obolibrary.org/obo/SYMP_0000713,inability to lie flat
+http://purl.obolibrary.org/obo/SYMP_0000714,intraretinal hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0000715,skin desquamation
+http://purl.obolibrary.org/obo/SYMP_0000716,swelling symptom
+http://purl.obolibrary.org/obo/SYMP_0000717,leg swelling
+http://purl.obolibrary.org/obo/SYMP_0000718,loss of consciousness
+http://purl.obolibrary.org/obo/SYMP_0000719,memory impairment
+http://purl.obolibrary.org/obo/SYMP_0000720,microangiopathic hemolytic anemia
+http://purl.obolibrary.org/obo/SYMP_0000721,moderate anemia
+http://purl.obolibrary.org/obo/SYMP_0000722,moderate conjuctival injection
+http://purl.obolibrary.org/obo/SYMP_0000723,multiple abscesses
+http://purl.obolibrary.org/obo/SYMP_0000724,multiple organ failure
+http://purl.obolibrary.org/obo/SYMP_0000725,necrosis of jejunum
+http://purl.obolibrary.org/obo/SYMP_0000726,painful reginal lymphadenopathy
+http://purl.obolibrary.org/obo/SYMP_0000727,palate weakness
+http://purl.obolibrary.org/obo/SYMP_0000728,partial hind limb paralysis
+http://purl.obolibrary.org/obo/SYMP_0000729,pulmonary consolidation
+http://purl.obolibrary.org/obo/SYMP_0000730,rapid respiration
+http://purl.obolibrary.org/obo/SYMP_0000731,renal failure
+http://purl.obolibrary.org/obo/SYMP_0000732,sudden ataxis
+http://purl.obolibrary.org/obo/SYMP_0000733,sternocleidomastoid weakness
+http://purl.obolibrary.org/obo/SYMP_0000736,lymph gland swelling
+http://purl.obolibrary.org/obo/SYMP_0000737,respiratory tract mucosa ulcer
+http://purl.obolibrary.org/obo/SYMP_0000738,yellowish green diarrhea
+http://purl.obolibrary.org/obo/SYMP_0000739,bronchopulmonary bleeding
+http://purl.obolibrary.org/obo/SYMP_0000740,genitourinary hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0000741,nasal bleeding
+http://purl.obolibrary.org/obo/SYMP_0000742,gum bleeding
+http://purl.obolibrary.org/obo/SYMP_0000743,blotchy red rash
+http://purl.obolibrary.org/obo/SYMP_0000744,cervical lymphadenopathy
+http://purl.obolibrary.org/obo/SYMP_0000745,change in body sensation
+http://purl.obolibrary.org/obo/SYMP_0000746,enanthem
+http://purl.obolibrary.org/obo/SYMP_0000747,extreme prostration
+http://purl.obolibrary.org/obo/SYMP_0000748,facial edema
+http://purl.obolibrary.org/obo/SYMP_0000749,hemodynamic instability
+http://purl.obolibrary.org/obo/SYMP_0000750,hemorrhage into mucous membrane
+http://purl.obolibrary.org/obo/SYMP_0000751,hemorrhage into skin
+http://purl.obolibrary.org/obo/SYMP_0000752,herpetic lesion on upper lip
+http://purl.obolibrary.org/obo/SYMP_0000753,intense anxiety
+http://purl.obolibrary.org/obo/SYMP_0000754,severe chest pain
+http://purl.obolibrary.org/obo/SYMP_0000755,intense toxemia
+http://purl.obolibrary.org/obo/SYMP_0000756,menorrhagia
+http://purl.obolibrary.org/obo/SYMP_0000757,mild conjunctivitis
+http://purl.obolibrary.org/obo/SYMP_0000758,neurological alteration
+http://purl.obolibrary.org/obo/SYMP_0000759,parotid pain
+http://purl.obolibrary.org/obo/SYMP_0000760,petechiae
+http://purl.obolibrary.org/obo/SYMP_0000761,extracellular fluid alteration
+http://purl.obolibrary.org/obo/SYMP_0000762,excess lymphocytes in cerebrospinal fluid
+http://purl.obolibrary.org/obo/SYMP_0000763,renal alteration
+http://purl.obolibrary.org/obo/SYMP_0000764,retrobulbar pain
+http://purl.obolibrary.org/obo/SYMP_0000765,sensory disturbance
+http://purl.obolibrary.org/obo/SYMP_0000766,slow pulse
+http://purl.obolibrary.org/obo/SYMP_0000767,subconjunctival bleeding
+http://purl.obolibrary.org/obo/SYMP_0000768,testicular pain
+http://purl.obolibrary.org/obo/SYMP_0000769,vascular alteration
+http://purl.obolibrary.org/obo/SYMP_0000770,pelvic symptom
+http://purl.obolibrary.org/obo/SYMP_0000771,pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000772,pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000773,pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000774,generalized pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000775,right lower quadrant pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000776,epigastric pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000777,left lower quadrant pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000778,left upper quadrant pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000779,right upper quadrant pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000780,multiple sites pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000781,periumbilic pelvic lump
+http://purl.obolibrary.org/obo/SYMP_0000782,right upper quadrant pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000783,left lower quadrant pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000784,epigastric pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000785,left upper quadrant pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000786,generalized pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000787,periumbilic pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000788,multiple sites pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000789,right lower quadrant pelvic mass
+http://purl.obolibrary.org/obo/SYMP_0000790,multiple sites pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000791,generalized pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000792,epigastric pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000793,left lower quadrant pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000794,left upper quadrant pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000795,periumbilic pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000796,right lower quadrant pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000797,right upper quadrant pelvic swelling
+http://purl.obolibrary.org/obo/SYMP_0000798,abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000799,abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000800,left upper quadrant abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000801,left lower quadrant abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000802,epigastric abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000803,multiple sites abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000804,generalized abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000805,periumbilic abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000806,right lower quadrant abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000807,right upper quadrant abdominal mass
+http://purl.obolibrary.org/obo/SYMP_0000808,multiple sites abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000809,periumbilic abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000810,epigastric abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000811,left upper quadrant abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000812,right lower quadrant abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000813,right upper quadrant abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000814,generalized abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000815,left lower quadrant abdominal lump
+http://purl.obolibrary.org/obo/SYMP_0000816,dysfunctions associated with arousal from sleep
+http://purl.obolibrary.org/obo/SYMP_0000817,inability to concentrate
+http://purl.obolibrary.org/obo/SYMP_0000818,localized superficial mass
+http://purl.obolibrary.org/obo/SYMP_0000819,localized superficial swelling
+http://purl.obolibrary.org/obo/SYMP_0000820,mass in chest
+http://purl.obolibrary.org/obo/SYMP_0000821,swelling in chest
+http://purl.obolibrary.org/obo/SYMP_0000822,chronic enteritis
+http://purl.obolibrary.org/obo/SYMP_0000823,sinus bradycardia
+http://purl.obolibrary.org/obo/SYMP_0000824,junctional tachycardia
+http://purl.obolibrary.org/obo/SYMP_0000825,paroxysmal tachycardia
+http://purl.obolibrary.org/obo/SYMP_0000826,sinus tachycardia
+http://purl.obolibrary.org/obo/SYMP_0000827,ventricular tachycardia
+http://purl.obolibrary.org/obo/SYMP_0000828,sore eyes
+http://purl.obolibrary.org/obo/SYMP_0000829,neck pain
+http://purl.obolibrary.org/obo/SYMP_0000830,phantom pain
+http://purl.obolibrary.org/obo/SYMP_0000831,nociceptive pain
+http://purl.obolibrary.org/obo/SYMP_0000832,neuropathic pain
+http://purl.obolibrary.org/obo/SYMP_0000833,visceral pain
+http://purl.obolibrary.org/obo/SYMP_0000834,hypoesthesia
+http://purl.obolibrary.org/obo/SYMP_0000835,hypoalgesia
+http://purl.obolibrary.org/obo/SYMP_0000836,hyperalgesia
+http://purl.obolibrary.org/obo/SYMP_0000837,chronic pain
+http://purl.obolibrary.org/obo/SYMP_0000838,breakthrough pain
+http://purl.obolibrary.org/obo/SYMP_0000839,acute pain
+http://purl.obolibrary.org/obo/SYMP_0000840,allodynia
+http://purl.obolibrary.org/obo/SYMP_0000841,reactive hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000842,active hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000843,functional hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000844,face hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000845,hyperemia of the neck
+http://purl.obolibrary.org/obo/SYMP_0000846,chest hyperemia
+http://purl.obolibrary.org/obo/SYMP_0000847,spastic paralysis
+http://purl.obolibrary.org/obo/SYMP_0000848,motor paralysis
+http://purl.obolibrary.org/obo/SYMP_0000849,stillbirth
+http://purl.obolibrary.org/obo/SYMP_0000850,congested sclera
+http://purl.obolibrary.org/obo/SYMP_0000851,gross hematuria
+http://purl.obolibrary.org/obo/SYMP_0000852,anuria
+http://purl.obolibrary.org/obo/SYMP_0000853,stress incontinence
+http://purl.obolibrary.org/obo/SYMP_0000854,hypermenorrhea
+http://purl.obolibrary.org/obo/SYMP_0000855,metrorrhagia
+http://purl.obolibrary.org/obo/SYMP_0000856,subjective vertigo
+http://purl.obolibrary.org/obo/SYMP_0000857,objective vertigo
+http://purl.obolibrary.org/obo/SYMP_0000858,hypokinesia
+http://purl.obolibrary.org/obo/SYMP_0000859,rigidity hypokinesia
+http://purl.obolibrary.org/obo/SYMP_0000860,postural instability hypokinesia
+http://purl.obolibrary.org/obo/SYMP_0000861,freezing hypokinesia
+http://purl.obolibrary.org/obo/SYMP_0000862,referred pain
+http://purl.obolibrary.org/obo/SYMP_0000863,facial tremor
+http://purl.obolibrary.org/obo/SYMP_0000864,lesions in oropharynx
+http://purl.obolibrary.org/obo/SYMP_0000865,lesions in mouth
+http://purl.obolibrary.org/obo/SYMP_0000866,cervical edema
+http://purl.obolibrary.org/obo/SYMP_0000867,gastrointestinal bleeding
+http://purl.obolibrary.org/obo/SYMP_0000868,breathing problems
+http://purl.obolibrary.org/obo/SYMP_0000869,nasal congestion
+http://purl.obolibrary.org/obo/SYMP_0000870,icteric eyes
+http://purl.obolibrary.org/obo/SYMP_0000871,icteric mucous membrane
+http://purl.obolibrary.org/obo/SYMP_0000872,icteric skin
+http://purl.obolibrary.org/obo/SYMP_0000873,otitis
+http://purl.obolibrary.org/obo/SYMP_0000874,hematoma
+http://purl.obolibrary.org/obo/SYMP_0000875,lameness
+http://purl.obolibrary.org/obo/SYMP_0000876,pericardial effusion
+http://purl.obolibrary.org/obo/SYMP_0000877,decreased tongue tone
+http://purl.obolibrary.org/obo/SYMP_0000878,transient fever
+http://purl.obolibrary.org/obo/SYMP_0000879,low-grade fever
+http://purl.obolibrary.org/obo/SYMP_0000880,prolonged fever
+http://purl.obolibrary.org/obo/SYMP_0000881,mild fever
+http://purl.obolibrary.org/obo/SYMP_0000882,high fever
+http://purl.obolibrary.org/obo/SYMP_0000883,very high fever
+http://purl.obolibrary.org/obo/SYMP_0000886,hyperpyrexia
+http://purl.obolibrary.org/obo/SYMP_0000887,Pel-Epstein fever
+http://purl.obolibrary.org/obo/SYMP_0000888,continuous fever
+http://purl.obolibrary.org/obo/SYMP_0000889,remittent fever
+http://purl.obolibrary.org/obo/SYMP_0000890,relapsing fever
+http://purl.obolibrary.org/obo/SYMP_0000891,musculoskeletal system symptom
+http://purl.obolibrary.org/obo/SYMP_0000892,sensation perception
+http://purl.obolibrary.org/obo/SYMP_0000893,hypotensive
+http://purl.obolibrary.org/obo/SYMP_0000894,cold clammy skin
+http://purl.obolibrary.org/obo/SYMP_0000895,anaphylactic shock
+http://purl.obolibrary.org/obo/SYMP_0000896,exophthalmos
+http://purl.obolibrary.org/obo/SYMP_0000897,ventricular bradycardia
+http://purl.obolibrary.org/obo/SYMP_0000898,cardiac fibrillation
+http://purl.obolibrary.org/obo/SYMP_0000899,ventricular fibrillation
+http://purl.obolibrary.org/obo/SYMP_0000900,allergic reaction
+http://purl.obolibrary.org/obo/SYMP_0017795,hemic and immune system symptom
+http://purl.obolibrary.org/obo/SYMP_0019138,immune system symptom
+http://purl.obolibrary.org/obo/SYMP_0019139,hemic system symptom
+http://purl.obolibrary.org/obo/SYMP_0019140,hematopoietic system symptom
+http://purl.obolibrary.org/obo/SYMP_0019141,lymphatic system symptom
+http://purl.obolibrary.org/obo/SYMP_0019142,lymphadenopathy
+http://purl.obolibrary.org/obo/SYMP_0019143,coagulopathy
+http://purl.obolibrary.org/obo/SYMP_0019144,microangiopathy
+http://purl.obolibrary.org/obo/SYMP_0019145,vomiting
+http://purl.obolibrary.org/obo/SYMP_0019146,hyponatremia
+http://purl.obolibrary.org/obo/SYMP_0019147,hematemesis
+http://purl.obolibrary.org/obo/SYMP_0019148,septicemia
+http://purl.obolibrary.org/obo/SYMP_0019149,toxemia
+http://purl.obolibrary.org/obo/SYMP_0019151,pulmonary edema
+http://purl.obolibrary.org/obo/SYMP_0019152,diaphoresis
+http://purl.obolibrary.org/obo/SYMP_0019153,dyspnea
+http://purl.obolibrary.org/obo/SYMP_0019154,hemorrhagic mediastinitis
+http://purl.obolibrary.org/obo/SYMP_0019155,lymphadenitis
+http://purl.obolibrary.org/obo/SYMP_0019156,hematogenous
+http://purl.obolibrary.org/obo/SYMP_0019158,eschar
+http://purl.obolibrary.org/obo/SYMP_0019159,gastroenteritis
+http://purl.obolibrary.org/obo/SYMP_0019160,boil
+http://purl.obolibrary.org/obo/SYMP_0019161,muscle pain
+http://purl.obolibrary.org/obo/SYMP_0019162,muscle tightness
+http://purl.obolibrary.org/obo/SYMP_0019163,eye symptom
+http://purl.obolibrary.org/obo/SYMP_0019164,excessive tearing
+http://purl.obolibrary.org/obo/SYMP_0019165,light sensitivity
+http://purl.obolibrary.org/obo/SYMP_0019167,pustule
+http://purl.obolibrary.org/obo/SYMP_0019169,arthritis
+http://purl.obolibrary.org/obo/SYMP_0019171,spondylitis
+http://purl.obolibrary.org/obo/SYMP_0019172,ocular lesion
+http://purl.obolibrary.org/obo/SYMP_0019173,meningitis
+http://purl.obolibrary.org/obo/SYMP_0019174,chills
+http://purl.obolibrary.org/obo/SYMP_0019175,sweaty
+http://purl.obolibrary.org/obo/SYMP_0019176,malaise
+http://purl.obolibrary.org/obo/SYMP_0019177,fatigue
+http://purl.obolibrary.org/obo/SYMP_0019178,necrotic lesion
+http://purl.obolibrary.org/obo/SYMP_0019179,lightheadedness
+http://purl.obolibrary.org/obo/SYMP_0019180,constipation
+http://purl.obolibrary.org/obo/SYMP_0019181,hoarseness
+http://purl.obolibrary.org/obo/SYMP_0019182,behavioral symptom
+http://purl.obolibrary.org/obo/SYMP_0019183,hyperactivity
+http://purl.obolibrary.org/obo/SYMP_0019184,limited attention
+http://purl.obolibrary.org/obo/SYMP_0019185,communication difficulty
+http://purl.obolibrary.org/obo/SYMP_0019186,obsessive interests
+http://purl.obolibrary.org/obo/SYMP_0019187,repetitive behavior
+http://purl.obolibrary.org/obo/SYMP_0019188,intracranial hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0019189,intracerebral hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0019190,subdural hemorrhage
+http://purl.obolibrary.org/obo/SYMP_0020000,airway stenosis
+http://purl.obolibrary.org/obo/SYMP_0020001,apthous ulcer
+http://purl.obolibrary.org/obo/SYMP_0020002,anal abscess
+http://purl.obolibrary.org/obo/SYMP_0020003,acholic stool
+http://purl.obolibrary.org/obo/SYMP_0020004,ageusia
+http://purl.obolibrary.org/obo/SYMP_0020005,acquired color vision deficiency
+http://purl.obolibrary.org/obo/SYMP_0020006,agitation
+http://purl.obolibrary.org/obo/SYMP_0020007,anterior scleral inflammation
+http://purl.obolibrary.org/obo/SYMP_0020008,barking croup cough
+http://purl.obolibrary.org/obo/SYMP_0020009,blind spot
+http://purl.obolibrary.org/obo/SYMP_0020010,blurred vision with haloes
+http://purl.obolibrary.org/obo/SYMP_0020011,bloody diarrhea
+http://purl.obolibrary.org/obo/SYMP_0020012,weight symptom
+http://purl.obolibrary.org/obo/SYMP_0020013,abnormal weight loss
+http://purl.obolibrary.org/obo/SYMP_0020014,chronic weight loss
+http://purl.obolibrary.org/obo/SYMP_0020016,acute weight gain
+http://purl.obolibrary.org/obo/SYMP_0020017,chronic weight gain
+http://purl.obolibrary.org/obo/SYMP_0020018,overweight
+http://purl.obolibrary.org/obo/SYMP_0020019,postnasal drainage
+http://purl.obolibrary.org/obo/SYMP_0020020,abnormal scar formation
+http://purl.obolibrary.org/obo/SYMP_0020021,abnormal wound healing
+http://purl.obolibrary.org/obo/SYMP_0020022,bone conduction hyperacusis
+http://purl.obolibrary.org/obo/SYMP_0020023,bone pain
+http://purl.obolibrary.org/obo/SYMP_0020024,bronchospasm
+http://purl.obolibrary.org/obo/SYMP_0020025,caseation
+http://purl.obolibrary.org/obo/SYMP_0020026,chronic inflammation
+http://purl.obolibrary.org/obo/SYMP_0020027,wet cough
+http://purl.obolibrary.org/obo/SYMP_0020028,poor wound healing
+http://purl.obolibrary.org/obo/SYMP_0020029,concentration difficulty
+http://purl.obolibrary.org/obo/SYMP_0020030,patches of hair loss with a black dot pattern
+http://purl.obolibrary.org/obo/SYMP_0020031,chest discomfort
+http://purl.obolibrary.org/obo/SYMP_0020032,chest tightness
+http://purl.obolibrary.org/obo/SYMP_0020033,paroxysmal cough
+http://purl.obolibrary.org/obo/SYMP_0020034,conjunctiva symptom
+http://purl.obolibrary.org/obo/SYMP_0020035,conjunctival congestion
+http://purl.obolibrary.org/obo/SYMP_0020036,conjunctival degeneration
+http://purl.obolibrary.org/obo/SYMP_0020037,conjunctival suffusion
+http://purl.obolibrary.org/obo/SYMP_0020038,conjunctival swelling
+http://purl.obolibrary.org/obo/SYMP_0020039,contracture
+http://purl.obolibrary.org/obo/SYMP_0020040,hair symptom
+http://purl.obolibrary.org/obo/SYMP_0020041,corkscrew hair
+http://purl.obolibrary.org/obo/SYMP_0020042,corneal scarring
+http://purl.obolibrary.org/obo/SYMP_0020043,dark urine
+http://purl.obolibrary.org/obo/SYMP_0020044,hair shedding
+http://purl.obolibrary.org/obo/SYMP_0020045,balance symptom
+http://purl.obolibrary.org/obo/SYMP_0020046,feeding problem
+http://purl.obolibrary.org/obo/SYMP_0020047,descending muscle paralysis
+http://purl.obolibrary.org/obo/SYMP_0020048,skin peeling
+http://purl.obolibrary.org/obo/SYMP_0020049,delayed psychomotor development
+http://purl.obolibrary.org/obo/SYMP_0020050,decreased tearing
+http://purl.obolibrary.org/obo/SYMP_0020051,decreased metabolism
+http://purl.obolibrary.org/obo/SYMP_0020052,hand weakness
+http://purl.obolibrary.org/obo/SYMP_0020053,mammary gland inflammation
+http://purl.obolibrary.org/obo/SYMP_0020054,severe mammary gland inflammation
+http://purl.obolibrary.org/obo/SYMP_0020055,pharynx inflammation
+http://purl.obolibrary.org/obo/SYMP_0020056,cerebrovascular accident
+http://purl.obolibrary.org/obo/SYMP_0020057,bronchiole inflammation
+http://purl.obolibrary.org/obo/SYMP_0020058,severe bronchiole inflammation
+http://purl.obolibrary.org/obo/SYMP_0020059,suppurative bronchiole inflammation
+http://purl.obolibrary.org/obo/SYMP_0020060,low white blood cell count
+http://purl.obolibrary.org/obo/SYMP_0020061,outlet dysfunction constipation
+http://purl.obolibrary.org/obo/SYMP_0020062,soft tissue necrosis
+http://purl.obolibrary.org/obo/SYMP_0020063,blood pressure
+http://purl.obolibrary.org/obo/SYMP_0020064,high blood pressure
+http://semanticscience.org/resource/SIO_000014,disposition
+http://semanticscience.org/resource/SIO_000015,information content entity
+http://semanticscience.org/resource/SIO_000112,capability
+http://semanticscience.org/resource/SIO_000276,emotion
+http://semanticscience.org/resource/SIO_000410,anger
+http://semanticscience.org/resource/SIO_000411,hate
+http://semanticscience.org/resource/SIO_000814,annoyance
+http://semanticscience.org/resource/SIO_000815,anxiety
+http://semanticscience.org/resource/SIO_000828,disgust
+http://semanticscience.org/resource/SIO_000832,negative emotion
+http://semanticscience.org/resource/SIO_000834,envy
+http://semanticscience.org/resource/SIO_000837,fear
+http://semanticscience.org/resource/SIO_000838,frustration
+http://semanticscience.org/resource/SIO_000841,guilt
+http://semanticscience.org/resource/SIO_000844,hostility
+http://semanticscience.org/resource/SIO_000845,hurt
+http://semanticscience.org/resource/SIO_000846,hysteria
+http://semanticscience.org/resource/SIO_000849,jealousy
+http://semanticscience.org/resource/SIO_000851,loathing
+http://semanticscience.org/resource/SIO_000852,loneliness
+http://semanticscience.org/resource/SIO_000855,panic
+http://semanticscience.org/resource/SIO_000860,rage
+http://semanticscience.org/resource/SIO_000861,regret
+http://semanticscience.org/resource/SIO_000863,sadness
+http://semanticscience.org/resource/SIO_000865,shame
+http://semanticscience.org/resource/SIO_000873,worry
+http://semanticscience.org/resource/SIO_000949,apprehension
+http://semanticscience.org/resource/SIO_000950,resentment
+http://semanticscience.org/resource/SIO_000951,pain
+http://semanticscience.org/resource/SIO_001281,humiliation
+http://semanticscience.org/resource/SIO_001353,specialized object
+http://www.ebi.ac.uk/efo/EFO_0003919,risk factor
+http://www.ebi.ac.uk/efo/EFO_0009629,event
+http://www.semanticweb.org/OntoOCD#Aggressive_Obsession,http://www.semanticweb.org/OntoOCD#Aggressive_Obsession
+http://www.semanticweb.org/OntoOCD#Aggressive_Thought,http://www.semanticweb.org/OntoOCD#Aggressive_Thought
+http://www.semanticweb.org/OntoOCD#Avoidance_Behavior,http://www.semanticweb.org/OntoOCD#Avoidance_Behavior
+http://www.semanticweb.org/OntoOCD#Checking,http://www.semanticweb.org/OntoOCD#Checking
+http://www.semanticweb.org/OntoOCD#Compulsion,http://www.semanticweb.org/OntoOCD#Compulsion
+http://www.semanticweb.org/OntoOCD#Contamination_Obsession,http://www.semanticweb.org/OntoOCD#Contamination_Obsession
+http://www.semanticweb.org/OntoOCD#Contamination_Thought,http://www.semanticweb.org/OntoOCD#Contamination_Thought
+http://www.semanticweb.org/OntoOCD#Counting,http://www.semanticweb.org/OntoOCD#Counting
+http://www.semanticweb.org/OntoOCD#Doubt_Obsession,http://www.semanticweb.org/OntoOCD#Doubt_Obsession
+http://www.semanticweb.org/OntoOCD#Doubt_Thought,http://www.semanticweb.org/OntoOCD#Doubt_Thought
+http://www.semanticweb.org/OntoOCD#Functional_Impairment,http://www.semanticweb.org/OntoOCD#Impairment
+http://www.semanticweb.org/OntoOCD#Hoarding_Obsession,http://www.semanticweb.org/OntoOCD#Hoarding_Obsession
+http://www.semanticweb.org/OntoOCD#Hoarding_Thought,http://www.semanticweb.org/OntoOCD#Hoarding_Thought
+http://www.semanticweb.org/OntoOCD#Hypervigilance_Behavior,http://www.semanticweb.org/OntoOCD#Hypervigilance_Behavior
+http://www.semanticweb.org/OntoOCD#Intrusive_Thoughts,http://www.semanticweb.org/OntoOCD#Intrusive_Thoughts
+http://www.semanticweb.org/OntoOCD#Mental_Image,http://www.semanticweb.org/OntoOCD#Mental_Image
+http://www.semanticweb.org/OntoOCD#Obsession,http://www.semanticweb.org/OntoOCD#Obsession
+http://www.semanticweb.org/OntoOCD#Reassurance_Behavior,http://www.semanticweb.org/OntoOCD#Reassurance_Behavior
+http://www.semanticweb.org/OntoOCD#Religious_Obsession,http://www.semanticweb.org/OntoOCD#Religious_Obsession
+http://www.semanticweb.org/OntoOCD#Religious_Thought,http://www.semanticweb.org/OntoOCD#Religious_Thought
+http://www.semanticweb.org/OntoOCD#Repeating_Rituals,http://www.semanticweb.org/OntoOCD#Repeating_Rituals
+http://www.semanticweb.org/OntoOCD#Sexual_Obsession,http://www.semanticweb.org/OntoOCD#Sexual_Obsession
+http://www.semanticweb.org/OntoOCD#Somatic_Obsession,http://www.semanticweb.org/OntoOCD#Somatic_Obsession
+http://www.semanticweb.org/OntoOCD#Somatic_Thought,http://www.semanticweb.org/OntoOCD#Somatic_Thought
+http://www.semanticweb.org/OntoOCD#Symmetry_Obsession,http://www.semanticweb.org/OntoOCD#Symmetry_Obsession
+http://www.semanticweb.org/OntoOCD#Symmetry_Thought,http://www.semanticweb.org/OntoOCD#Symmetry_Thought
+http://www.semanticweb.org/OntoOCD#Thought,http://www.semanticweb.org/OntoOCD#Thought
+http://www.semanticweb.org/OntoOCD#Urge,http://www.semanticweb.org/OntoOCD#Urge
